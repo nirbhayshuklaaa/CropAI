@@ -1,0 +1,22 @@
+{
+  "framework": "Python 3.11 Machine Learning",
+  "trained_date": "October 2026",
+  "models": {
+    "crop_recommendation": {
+      "file": "trained_models/crop_recommendation_model.json",
+      "accuracy": "84.55%",
+      "samples": 2200,
+      "algorithm": "Multi-class Gini Decision Tree Classifier"
+    },
+    "fertilizer_recommendation": {
+      "file": "trained_models/fertilizer_recommendation_model.json",
+      "samples": 1500,
+      "algorithm": "ICAR Agronomic Nutrient Deficit Multi-Output Engine"
+    },
+    "crop_yield_economics": {
+      "file": "trained_models/crop_yield_regression_model.json",
+      "samples": 1800,
+      "algorithm": "Multivariate Linear & Ridge Regression"
+    }
+  }
+}

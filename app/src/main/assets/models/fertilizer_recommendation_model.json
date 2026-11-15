@@ -1,0 +1,356 @@
+{
+  "model_type": "AgronomicNutrientBalancingEngine",
+  "description": "Python-trained ICAR nutrient recommendation model mapping NPK deficits to Urea, DAP, and MOP",
+  "trained_on_samples": 1500,
+  "crops": [
+    "Chickpea",
+    "Cotton",
+    "Maize",
+    "Mustard",
+    "Potato",
+    "Rice",
+    "Soybean",
+    "Sugarcane",
+    "Tomato",
+    "Wheat"
+  ],
+  "soil_types": [
+    "Alluvial Loam",
+    "Black Regur",
+    "Clay Loam",
+    "Red Lateritic",
+    "Sandy Loam"
+  ],
+  "rules": {
+    "Chickpea": {
+      "baseline_urea_kg_acre": 10.0,
+      "baseline_dap_kg_acre": 44.4,
+      "baseline_mop_kg_acre": 5.0,
+      "recommended_primary_formula": "DAP + Zinc Sulphate",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Cotton": {
+      "baseline_urea_kg_acre": 66.7,
+      "baseline_dap_kg_acre": 22.9,
+      "baseline_mop_kg_acre": 12.8,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Maize": {
+      "baseline_urea_kg_acre": 39.1,
+      "baseline_dap_kg_acre": 17.7,
+      "baseline_mop_kg_acre": 6.1,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Mustard": {
+      "baseline_urea_kg_acre": 21.8,
+      "baseline_dap_kg_acre": 16.0,
+      "baseline_mop_kg_acre": 6.3,
+      "recommended_primary_formula": "NPK 12:32:16 Complex",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Potato": {
+      "baseline_urea_kg_acre": 60.8,
+      "baseline_dap_kg_acre": 55.1,
+      "baseline_mop_kg_acre": 52.3,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Rice": {
+      "baseline_urea_kg_acre": 44.3,
+      "baseline_dap_kg_acre": 24.9,
+      "baseline_mop_kg_acre": 8.7,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Soybean": {
+      "baseline_urea_kg_acre": 10.0,
+      "baseline_dap_kg_acre": 44.7,
+      "baseline_mop_kg_acre": 5.7,
+      "recommended_primary_formula": "DAP + Zinc Sulphate",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Sugarcane": {
+      "baseline_urea_kg_acre": 100.1,
+      "baseline_dap_kg_acre": 42.7,
+      "baseline_mop_kg_acre": 35.7,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Tomato": {
+      "baseline_urea_kg_acre": 30.8,
+      "baseline_dap_kg_acre": 35.8,
+      "baseline_mop_kg_acre": 29.3,
+      "recommended_primary_formula": "DAP + Zinc Sulphate",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    },
+    "Wheat": {
+      "baseline_urea_kg_acre": 57.0,
+      "baseline_dap_kg_acre": 22.2,
+      "baseline_mop_kg_acre": 8.4,
+      "recommended_primary_formula": "Split Urea (Neem Coated)",
+      "soil_factors": {
+        "Alluvial Loam": {
+          "urea_multiplier": 1.0,
+          "dap_multiplier": 1.0,
+          "mop_multiplier": 1.0
+        },
+        "Black Regur": {
+          "urea_multiplier": 0.95,
+          "dap_multiplier": 0.9,
+          "mop_multiplier": 1.05
+        },
+        "Red Lateritic": {
+          "urea_multiplier": 1.1,
+          "dap_multiplier": 1.2,
+          "mop_multiplier": 1.1
+        },
+        "Sandy Loam": {
+          "urea_multiplier": 1.15,
+          "dap_multiplier": 1.05,
+          "mop_multiplier": 1.15
+        },
+        "Clay Loam": {
+          "urea_multiplier": 0.9,
+          "dap_multiplier": 0.95,
+          "mop_multiplier": 0.95
+        }
+      }
+    }
+  }
+}

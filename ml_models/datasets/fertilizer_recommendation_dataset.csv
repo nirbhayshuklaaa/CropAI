@@ -1,0 +1,1501 @@
+crop,soil_type,nitrogen,phosphorus,potassium,ph,organic_carbon_pct,recommended_urea_kg_acre,recommended_dap_kg_acre,recommended_mop_kg_acre,primary_fertilizer_formula
+Potato,Alluvial Loam,178.6,45.6,147.2,7.76,0.72,52.9,47.3,63.7,Split Urea (Neem Coated)
+Maize,Red Lateritic,208.0,45.6,311.8,7.2,0.85,14.9,10.0,5.0,NPK 12:32:16 Complex
+Potato,Red Lateritic,160.1,54.2,98.0,6.14,1.0,63.1,39.8,70.3,Split Urea (Neem Coated)
+Chickpea,Black Regur,142.7,13.8,219.2,7.37,1.09,10.0,64.1,5.0,DAP + Zinc Sulphate
+Tomato,Clay Loam,154.7,22.9,332.4,5.98,0.72,19.6,45.3,14.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,64.2,61.0,284.0,5.68,0.76,10.0,23.0,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,67.2,12.8,159.3,6.57,0.64,10.0,65.0,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,142.0,15.1,219.1,7.28,1.11,10.0,30.3,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,44.3,23.5,351.1,6.88,0.48,97.9,66.5,36.5,Split Urea (Neem Coated)
+Maize,Red Lateritic,217.7,53.9,220.7,5.59,1.03,12.6,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Black Regur,116.0,26.0,342.6,7.52,0.48,22.5,20.9,5.0,NPK 12:32:16 Complex
+Wheat,Red Lateritic,91.6,44.3,114.1,8.01,1.11,77.5,15.8,18.1,Split Urea (Neem Coated)
+Maize,Alluvial Loam,115.8,35.9,154.4,6.71,0.82,47.7,12.3,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,112.1,15.3,102.6,7.52,0.54,48.8,41.0,19.7,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,170.8,61.9,304.5,6.6,0.48,98.4,22.3,26.1,Split Urea (Neem Coated)
+Chickpea,Black Regur,103.2,32.2,117.1,6.73,1.17,10.0,48.1,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,154.2,42.8,161.0,5.93,1.01,13.3,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Clay Loam,95.0,55.1,174.4,6.82,1.0,79.9,10.0,10.1,Split Urea (Neem Coated)
+Mustard,Clay Loam,234.2,30.9,118.2,7.42,0.63,10.0,16.6,9.2,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,93.9,42.9,325.1,7.47,1.17,50.2,27.9,15.0,Split Urea (Neem Coated)
+Maize,Black Regur,66.7,27.8,191.1,6.19,0.61,64.2,19.3,5.0,Split Urea (Neem Coated)
+Rice,Black Regur,229.8,50.0,268.6,8.13,0.45,14.5,10.9,5.0,NPK 12:32:16 Complex
+Tomato,Alluvial Loam,107.2,60.8,228.8,5.64,0.75,51.1,12.3,27.8,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,157.2,58.3,269.1,6.85,0.49,30.6,14.5,22.5,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,222.4,28.4,164.1,7.6,0.74,10.0,51.4,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,97.1,59.9,249.6,6.29,0.83,89.7,34.9,50.1,Split Urea (Neem Coated)
+Rice,Red Lateritic,125.4,54.0,94.6,5.53,0.81,56.7,10.0,20.7,Split Urea (Neem Coated)
+Tomato,Black Regur,118.0,39.1,117.8,7.73,0.71,39.4,31.2,42.6,MOP Potash Balanced
+Mustard,Black Regur,139.4,41.8,315.5,7.95,0.81,18.8,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,44.1,13.7,116.4,8.16,0.53,10.0,64.2,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,211.9,22.4,373.3,7.69,0.84,32.0,67.5,33.6,DAP + Zinc Sulphate
+Rice,Alluvial Loam,191.1,11.4,330.2,7.34,1.19,16.5,44.4,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,208.5,50.4,220.6,6.82,0.43,44.7,10.5,12.3,Split Urea (Neem Coated)
+Maize,Red Lateritic,173.7,58.9,111.2,6.93,0.48,29.9,10.0,10.2,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,83.5,29.2,274.7,6.19,0.91,121.4,50.7,30.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,89.3,44.2,232.6,7.09,1.15,10.0,37.7,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,151.4,28.4,285.7,6.23,0.38,31.2,18.8,5.0,NPK 12:32:16 Complex
+Potato,Clay Loam,222.1,40.5,297.8,6.51,1.02,34.2,51.7,43.6,DAP + Zinc Sulphate
+Soybean,Red Lateritic,182.3,28.2,216.9,7.02,0.4,10.0,51.6,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,185.1,36.1,342.2,7.54,1.08,47.1,55.6,37.7,DAP + Zinc Sulphate
+Maize,Sandy Loam,185.9,38.2,119.8,5.94,0.91,21.1,10.3,9.0,NPK 12:32:16 Complex
+Rice,Black Regur,82.7,63.0,198.2,7.5,0.42,76.3,10.0,6.9,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,132.3,60.3,161.2,5.59,0.9,112.9,23.7,45.2,Split Urea (Neem Coated)
+Rice,Red Lateritic,185.7,30.2,279.1,5.8,0.45,25.0,28.1,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,140.9,62.5,369.4,6.55,1.14,110.3,21.7,17.4,Split Urea (Neem Coated)
+Maize,Clay Loam,183.7,17.2,223.0,7.45,0.91,14.8,28.5,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,111.3,53.2,359.6,8.43,1.15,32.5,10.0,5.0,NPK 12:32:16 Complex
+Potato,Sandy Loam,138.1,53.3,134.8,7.37,0.59,71.4,40.6,65.4,Split Urea (Neem Coated)
+Chickpea,Black Regur,222.1,21.1,271.6,8.14,0.47,10.0,57.7,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,144.0,20.3,205.5,7.74,0.47,31.4,25.8,5.0,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,48.2,15.9,80.4,6.82,0.45,45.6,29.7,14.3,Split Urea (Neem Coated)
+Chickpea,Black Regur,218.8,43.7,366.1,7.59,0.65,10.0,38.1,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,234.3,60.8,183.0,8.12,0.36,10.0,23.2,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,89.7,63.3,186.8,5.51,0.81,41.0,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,151.2,20.7,279.6,7.21,0.63,57.1,36.3,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,81.9,21.3,214.8,7.99,0.5,82.5,68.4,54.7,Split Urea (Neem Coated)
+Maize,Clay Loam,135.3,19.0,364.0,8.32,0.97,34.3,27.0,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,50.3,63.8,128.0,7.57,0.9,74.3,10.0,41.3,Split Urea (Neem Coated)
+Mustard,Clay Loam,167.8,59.0,88.0,5.95,0.79,10.4,10.0,13.3,NPK 12:32:16 Complex
+Rice,Alluvial Loam,161.5,34.9,131.8,7.18,0.87,36.1,24.0,15.8,NPK 12:32:16 Complex
+Wheat,Black Regur,228.8,14.9,255.3,7.76,0.55,13.8,41.4,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,159.2,44.7,177.0,6.74,0.33,33.7,10.0,5.0,NPK 12:32:16 Complex
+Cotton,Black Regur,55.1,26.7,266.2,7.84,0.86,96.7,31.1,6.2,Split Urea (Neem Coated)
+Potato,Red Lateritic,63.0,28.6,316.9,5.59,0.45,92.4,62.1,41.1,Split Urea (Neem Coated)
+Rice,Clay Loam,145.2,11.2,210.2,5.51,0.84,34.4,44.6,5.3,DAP + Zinc Sulphate
+Wheat,Sandy Loam,107.2,17.7,318.6,6.34,1.15,62.4,39.0,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,128.7,43.6,207.0,7.45,0.76,51.9,16.4,5.7,Split Urea (Neem Coated)
+Potato,Red Lateritic,108.1,38.8,364.8,5.51,0.6,78.2,53.2,34.7,Split Urea (Neem Coated)
+Wheat,Red Lateritic,107.1,24.9,328.7,6.81,1.11,64.9,32.7,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,164.4,46.6,118.4,6.03,0.69,95.7,35.6,50.9,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,148.0,15.1,310.2,5.9,0.58,10.0,30.3,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,94.1,45.7,354.0,7.55,0.92,87.9,14.6,5.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,61.2,58.0,158.2,6.08,0.57,139.9,25.7,45.6,Split Urea (Neem Coated)
+Cotton,Clay Loam,220.9,14.1,315.2,8.26,0.94,27.5,42.1,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,91.3,9.9,246.8,7.54,0.9,111.8,67.5,33.8,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,142.1,55.5,360.8,8.2,1.15,107.4,27.8,18.6,Split Urea (Neem Coated)
+Tomato,Red Lateritic,129.3,43.4,367.3,5.76,0.66,36.5,27.5,9.4,NPK 12:32:16 Complex
+Sugarcane,Sandy Loam,168.2,63.8,166.9,5.77,0.7,100.0,20.6,44.4,Split Urea (Neem Coated)
+Cotton,Clay Loam,130.0,42.8,175.1,6.86,0.35,72.9,17.1,18.3,Split Urea (Neem Coated)
+Maize,Red Lateritic,155.0,58.1,112.9,7.72,0.62,37.2,10.0,9.9,NPK 12:32:16 Complex
+Soybean,Clay Loam,239.7,60.8,157.6,6.24,1.14,10.0,23.2,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,94.1,8.2,91.8,7.38,0.48,38.3,58.1,46.1,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,200.4,55.8,192.0,7.86,0.46,10.0,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Clay Loam,67.9,10.9,371.2,7.83,1.16,121.3,66.6,17.2,Split Urea (Neem Coated)
+Maize,Sandy Loam,230.6,62.9,312.9,5.85,0.63,10.0,10.0,5.0,NPK 12:32:16 Complex
+Potato,Black Regur,237.8,16.8,154.8,5.58,1.0,20.0,72.3,62.7,DAP + Zinc Sulphate
+Potato,Clay Loam,212.5,27.9,256.1,6.6,0.43,33.6,62.7,49.2,DAP + Zinc Sulphate
+Chickpea,Black Regur,108.1,30.1,85.9,7.24,1.01,10.0,49.9,5.2,DAP + Zinc Sulphate
+Rice,Red Lateritic,223.4,54.2,143.9,7.46,0.34,18.5,10.0,14.1,NPK 12:32:16 Complex
+Cotton,Alluvial Loam,80.4,59.9,102.0,8.23,0.52,98.1,10.0,28.1,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,170.8,15.1,234.7,6.8,1.14,82.4,63.0,35.4,Split Urea (Neem Coated)
+Chickpea,Clay Loam,218.0,42.3,337.7,8.1,1.02,10.0,39.3,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,200.3,32.3,87.5,6.32,0.64,20.0,26.3,21.7,DAP + Zinc Sulphate
+Chickpea,Black Regur,89.5,33.4,377.9,7.85,0.96,10.0,47.0,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,238.4,58.8,165.1,6.66,0.69,25.0,10.0,11.3,NPK 12:32:16 Complex
+Sugarcane,Black Regur,140.7,48.0,211.0,8.12,1.12,105.4,34.3,38.5,Split Urea (Neem Coated)
+Potato,Sandy Loam,200.0,55.4,301.7,6.26,0.64,47.9,38.8,43.1,Split Urea (Neem Coated)
+Tomato,Sandy Loam,125.8,37.8,167.1,7.12,0.75,36.0,32.3,36.1,MOP Potash Balanced
+Wheat,Red Lateritic,74.1,36.8,344.7,7.38,0.53,81.8,22.3,5.0,Split Urea (Neem Coated)
+Soybean,Clay Loam,140.1,17.9,142.2,6.27,0.81,10.0,60.5,6.0,DAP + Zinc Sulphate
+Wheat,Black Regur,67.3,48.7,252.9,7.26,1.02,88.5,12.0,5.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,102.8,52.8,84.3,7.6,0.41,57.6,10.0,13.8,Split Urea (Neem Coated)
+Maize,Alluvial Loam,97.9,23.6,233.4,8.27,0.62,50.5,23.0,5.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,54.2,55.3,280.0,5.83,1.16,104.9,38.9,46.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,41.4,26.0,244.4,8.01,0.82,136.8,53.5,34.1,Split Urea (Neem Coated)
+Wheat,Sandy Loam,177.1,50.1,191.2,7.46,0.74,46.0,10.8,7.8,Split Urea (Neem Coated)
+Potato,Sandy Loam,226.4,54.5,295.9,6.65,1.08,37.2,39.6,43.9,MOP Potash Balanced
+Potato,Sandy Loam,49.4,28.1,82.5,7.51,1.14,97.5,62.5,72.3,Split Urea (Neem Coated)
+Maize,Clay Loam,127.2,26.8,176.2,6.06,0.74,40.1,20.2,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,154.6,38.6,228.5,5.9,0.8,40.1,20.8,5.0,Split Urea (Neem Coated)
+Potato,Black Regur,133.6,25.0,162.8,6.0,0.69,63.5,65.2,61.6,DAP + Zinc Sulphate
+Tomato,Red Lateritic,178.5,31.6,262.2,7.28,0.78,13.2,37.7,23.4,DAP + Zinc Sulphate
+Cotton,Clay Loam,126.4,47.1,90.4,6.64,0.73,75.7,13.4,29.6,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,212.2,32.6,255.2,6.24,1.02,10.0,47.7,5.0,DAP + Zinc Sulphate
+Wheat,Red Lateritic,89.4,19.1,243.2,6.07,0.81,69.8,37.7,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,204.2,59.1,112.5,5.84,1.08,49.4,10.0,26.7,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,120.1,22.3,239.5,6.53,0.75,10.0,56.7,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,179.3,28.3,250.9,5.81,0.37,10.0,18.9,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,161.7,61.4,183.9,7.62,0.77,66.8,10.0,17.1,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,227.5,62.6,343.9,6.1,0.75,10.0,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Black Regur,105.6,63.2,366.6,8.24,0.69,78.2,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,201.6,38.9,321.7,6.57,1.1,43.5,20.5,5.0,Split Urea (Neem Coated)
+Tomato,Sandy Loam,172.9,11.9,276.0,8.27,0.59,10.0,54.9,21.5,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,178.5,42.2,305.0,8.48,1.0,88.6,39.4,26.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,92.7,32.2,260.8,7.4,0.68,118.8,48.1,31.9,Split Urea (Neem Coated)
+Maize,Clay Loam,79.2,53.7,285.2,7.11,0.42,66.8,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Red Lateritic,207.3,35.7,257.0,6.07,0.73,10.0,34.2,24.1,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,58.1,58.0,119.3,8.46,1.04,10.0,25.7,9.1,DAP + Zinc Sulphate
+Potato,Alluvial Loam,161.3,11.3,316.0,7.36,1.07,48.0,77.1,41.2,DAP + Zinc Sulphate
+Maize,Alluvial Loam,77.6,62.4,216.3,5.8,0.42,67.5,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,154.4,44.1,349.7,7.69,0.64,13.7,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,123.4,18.4,90.7,6.67,0.68,10.0,60.1,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,160.3,64.2,185.8,7.07,0.56,67.7,10.0,16.9,Split Urea (Neem Coated)
+Maize,Sandy Loam,65.6,21.7,241.5,8.36,0.31,62.5,24.6,5.0,Split Urea (Neem Coated)
+Rice,Sandy Loam,102.8,61.8,258.6,7.08,0.56,68.2,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Black Regur,52.3,58.4,238.8,6.07,1.15,10.0,25.3,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,96.0,8.8,366.4,7.3,0.96,52.9,46.7,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,143.1,56.7,271.9,8.15,0.85,72.5,10.0,5.4,Split Urea (Neem Coated)
+Potato,Alluvial Loam,67.9,23.4,170.7,7.86,0.38,88.7,66.6,60.6,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,133.6,13.5,247.2,6.21,0.6,10.0,64.3,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,191.3,35.9,268.9,6.16,0.69,46.5,23.1,5.8,Split Urea (Neem Coated)
+Mustard,Red Lateritic,128.2,11.7,118.2,6.57,1.15,12.9,33.3,9.2,DAP + Zinc Sulphate
+Mustard,Red Lateritic,102.0,60.8,166.4,8.31,0.46,36.2,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Sandy Loam,125.6,27.4,285.0,7.24,1.02,104.3,52.3,28.7,Split Urea (Neem Coated)
+Soybean,Black Regur,161.4,18.2,292.3,8.0,1.17,10.0,60.3,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,226.7,13.6,345.4,7.99,0.5,10.0,31.7,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,50.1,17.0,265.6,7.72,1.18,95.3,39.6,6.3,Split Urea (Neem Coated)
+Mustard,Clay Loam,76.2,24.4,213.9,6.07,0.93,37.5,22.3,5.0,NPK 12:32:16 Complex
+Soybean,Alluvial Loam,206.3,42.4,261.1,5.63,0.7,10.0,39.2,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,61.9,64.2,184.0,6.23,0.93,95.3,10.0,8.8,Split Urea (Neem Coated)
+Mustard,Red Lateritic,132.4,60.4,364.7,7.91,0.38,24.3,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Sandy Loam,228.1,18.7,133.2,8.0,0.94,15.4,38.1,15.6,DAP + Zinc Sulphate
+Mustard,Clay Loam,57.8,8.2,162.8,6.25,0.65,39.3,36.3,5.0,NPK 12:32:16 Complex
+Cotton,Sandy Loam,93.4,22.3,327.1,7.75,0.81,80.2,35.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,58.6,16.4,287.0,8.44,0.94,126.8,61.8,28.4,Split Urea (Neem Coated)
+Rice,Sandy Loam,165.9,17.4,346.8,6.82,0.95,28.4,39.2,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,71.4,37.0,334.2,7.02,1.09,93.8,22.2,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,103.9,35.5,96.9,8.25,0.47,78.7,56.1,70.4,Split Urea (Neem Coated)
+Mustard,Black Regur,47.9,10.5,93.0,5.68,0.68,43.9,34.3,12.6,Split Urea (Neem Coated)
+Maize,Red Lateritic,142.9,57.0,273.6,6.93,0.7,41.9,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,120.5,39.4,116.2,6.0,0.89,25.3,10.0,9.5,NPK 12:32:16 Complex
+Potato,Alluvial Loam,88.3,23.6,206.3,6.15,0.47,80.8,66.4,55.8,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,110.7,53.0,308.2,6.74,1.08,10.0,30.0,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,106.8,50.7,300.5,6.5,0.72,10.0,32.0,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,102.7,64.3,100.4,8.47,0.63,89.0,31.0,69.9,Split Urea (Neem Coated)
+Potato,Sandy Loam,153.8,30.0,291.1,7.2,1.12,57.3,60.9,44.5,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,197.8,8.7,315.7,7.42,0.99,69.7,68.5,24.6,Split Urea (Neem Coated)
+Cotton,Black Regur,129.5,25.9,134.7,8.03,0.96,67.3,31.8,23.7,Split Urea (Neem Coated)
+Tomato,Red Lateritic,167.5,13.0,249.2,6.05,1.1,11.2,53.9,25.1,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,186.5,27.3,224.0,7.26,0.63,10.0,19.7,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,168.2,21.1,198.9,5.64,0.36,50.5,36.0,15.1,Split Urea (Neem Coated)
+Maize,Sandy Loam,101.4,11.3,265.6,6.92,0.79,45.0,33.7,5.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,71.1,41.6,122.8,5.55,1.0,95.5,18.2,25.3,Split Urea (Neem Coated)
+Mustard,Black Regur,102.3,63.8,137.1,5.96,0.85,36.1,10.0,6.7,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,57.4,64.4,280.1,8.31,0.81,53.6,10.0,5.0,Split Urea (Neem Coated)
+Maize,Clay Loam,92.1,34.3,209.8,7.44,0.83,56.4,13.7,5.0,Split Urea (Neem Coated)
+Mustard,Black Regur,160.7,60.5,220.4,8.3,0.89,13.2,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,120.6,47.2,87.2,8.35,0.69,10.0,35.0,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,100.7,32.6,197.6,7.32,0.92,52.5,15.1,5.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,225.9,54.7,284.0,7.2,0.58,39.4,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Sandy Loam,141.1,58.1,303.0,8.22,0.31,36.9,14.7,17.9,NPK 12:32:16 Complex
+Mustard,Red Lateritic,155.9,27.0,270.0,6.0,0.73,10.0,20.0,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,116.1,50.8,123.9,7.92,1.0,52.4,10.0,8.5,Split Urea (Neem Coated)
+Mustard,Sandy Loam,186.9,17.1,153.5,8.34,0.95,10.0,28.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,204.0,42.5,129.7,8.38,0.95,78.8,39.1,49.4,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,75.4,52.5,284.0,6.26,0.53,10.0,30.4,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,119.6,10.6,110.0,8.37,0.84,100.9,66.9,52.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,149.4,63.9,341.0,6.69,0.75,107.4,20.5,21.2,Split Urea (Neem Coated)
+Tomato,Sandy Loam,191.6,50.5,288.6,8.37,1.15,14.5,21.3,19.9,DAP + Zinc Sulphate
+Soybean,Black Regur,94.4,22.3,348.2,6.26,0.32,10.0,56.7,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,112.0,37.6,208.2,7.62,0.68,78.1,21.7,13.9,Split Urea (Neem Coated)
+Wheat,Black Regur,173.4,23.6,335.0,8.43,0.51,38.5,33.8,5.0,NPK 12:32:16 Complex
+Cotton,Alluvial Loam,148.9,39.0,116.4,7.24,0.47,64.2,20.4,26.1,Split Urea (Neem Coated)
+Potato,Sandy Loam,157.1,53.9,273.6,7.87,0.48,64.1,40.1,46.9,Split Urea (Neem Coated)
+Potato,Clay Loam,233.9,22.1,370.9,7.15,0.3,23.3,67.7,33.9,DAP + Zinc Sulphate
+Maize,Black Regur,226.1,9.6,195.7,5.79,0.99,10.0,35.1,5.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,41.2,16.7,254.0,6.59,0.49,70.4,29.0,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,202.7,30.5,308.0,6.15,0.36,40.2,27.8,5.0,Split Urea (Neem Coated)
+Rice,Clay Loam,150.7,12.5,225.5,6.05,0.41,32.7,43.5,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,136.8,10.0,113.7,7.37,0.84,10.0,67.4,9.8,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,172.6,34.0,270.7,6.7,0.82,53.2,24.8,5.6,Split Urea (Neem Coated)
+Rice,Alluvial Loam,179.8,47.3,276.8,7.42,0.98,33.2,13.2,5.0,NPK 12:32:16 Complex
+Wheat,Sandy Loam,115.2,27.5,367.8,6.14,0.98,62.6,30.4,5.0,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,145.9,22.7,145.6,8.09,1.12,10.0,56.3,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,114.5,12.1,165.4,6.98,0.69,66.6,76.4,61.3,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,133.0,43.7,349.4,7.57,0.71,61.1,16.3,5.0,Split Urea (Neem Coated)
+Maize,Sandy Loam,68.1,63.1,351.8,8.03,0.35,71.2,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Black Regur,171.4,49.8,235.9,8.08,0.79,10.0,32.8,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,165.4,40.4,114.2,8.01,0.45,58.2,19.2,26.4,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,45.0,57.1,341.1,6.14,0.54,146.0,26.4,21.2,Split Urea (Neem Coated)
+Wheat,Clay Loam,86.7,46.9,306.2,6.06,0.71,80.3,13.6,5.0,Split Urea (Neem Coated)
+Maize,Red Lateritic,69.5,57.5,345.2,5.76,0.4,70.6,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,152.8,49.4,129.7,8.36,0.97,101.2,33.1,49.4,Split Urea (Neem Coated)
+Maize,Sandy Loam,138.8,9.5,304.8,5.75,0.7,29.7,35.2,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,200.6,64.3,220.5,7.99,0.78,41.1,10.0,5.0,Split Urea (Neem Coated)
+Maize,Clay Loam,41.4,26.2,179.9,7.02,1.09,73.5,20.7,5.0,Split Urea (Neem Coated)
+Maize,Sandy Loam,128.5,52.4,131.2,5.62,0.82,47.5,10.0,7.5,Split Urea (Neem Coated)
+Wheat,Sandy Loam,177.2,61.1,181.4,7.42,0.32,49.8,10.0,9.1,Split Urea (Neem Coated)
+Rice,Red Lateritic,198.4,12.4,236.6,7.84,0.35,14.0,43.6,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,129.5,53.3,80.8,6.28,0.59,25.4,10.0,14.2,NPK 12:32:16 Complex
+Tomato,Red Lateritic,122.6,35.9,98.7,7.85,0.75,36.5,34.0,45.2,MOP Potash Balanced
+Sugarcane,Sandy Loam,162.0,10.8,82.1,7.47,0.5,84.4,66.7,55.7,Split Urea (Neem Coated)
+Rice,Sandy Loam,118.5,45.6,329.2,6.52,0.76,56.6,14.7,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,183.6,8.4,229.3,5.99,0.45,10.0,36.2,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,88.5,49.3,244.5,7.19,0.41,10.0,33.2,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,66.1,28.6,107.0,5.97,1.04,56.2,40.3,44.1,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,125.4,19.1,195.0,5.59,1.1,10.0,59.5,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,112.8,18.2,92.4,6.44,0.36,10.0,60.3,12.7,DAP + Zinc Sulphate
+Potato,Red Lateritic,211.2,35.1,103.3,5.77,0.34,36.6,56.4,69.6,MOP Potash Balanced
+Sugarcane,Red Lateritic,148.2,61.5,337.3,7.2,1.12,107.1,22.6,21.7,Split Urea (Neem Coated)
+Tomato,Sandy Loam,230.4,44.0,106.9,8.18,1.01,10.0,27.0,44.1,MOP Potash Balanced
+Chickpea,Alluvial Loam,129.6,45.6,87.6,7.4,0.79,10.0,36.4,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,148.5,45.5,116.1,5.69,0.41,55.7,14.8,17.9,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,179.7,36.5,288.6,6.89,0.67,10.0,44.3,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,212.1,15.4,249.3,7.71,0.39,20.5,41.0,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,70.7,13.4,206.6,6.49,1.14,64.3,42.7,5.8,Split Urea (Neem Coated)
+Potato,Sandy Loam,191.7,10.3,345.3,7.5,0.8,35.8,78.0,37.3,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,231.5,25.4,231.4,5.99,0.71,10.0,54.0,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,212.4,49.5,97.8,8.25,0.87,14.6,10.0,12.0,NPK 12:32:16 Complex
+Maize,Clay Loam,93.6,40.1,222.3,6.21,0.94,57.8,10.0,5.0,Split Urea (Neem Coated)
+Potato,Black Regur,235.7,62.6,265.8,8.13,0.47,36.4,32.5,47.9,MOP Potash Balanced
+Mustard,Sandy Loam,218.3,43.7,129.0,8.2,0.33,10.0,10.0,7.8,NPK 12:32:16 Complex
+Soybean,Black Regur,155.1,30.9,207.1,7.64,1.02,10.0,49.2,5.0,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,97.2,24.3,120.6,6.86,0.83,10.0,55.0,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,184.6,30.4,283.1,5.89,0.52,47.3,27.9,5.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,186.6,31.7,216.2,6.0,1.17,36.1,26.8,5.0,NPK 12:32:16 Complex
+Potato,Black Regur,106.7,63.9,147.7,6.2,0.58,87.3,31.4,63.6,Split Urea (Neem Coated)
+Rice,Sandy Loam,166.2,11.2,111.3,6.77,0.52,26.2,44.6,18.5,DAP + Zinc Sulphate
+Rice,Alluvial Loam,92.4,58.0,107.6,6.7,0.48,71.0,10.0,19.0,Split Urea (Neem Coated)
+Mustard,Black Regur,234.5,31.7,200.3,7.9,0.78,10.0,15.9,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,217.4,19.1,217.8,6.35,0.54,65.6,59.5,37.6,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,188.0,58.4,363.0,6.11,1.08,10.0,10.0,5.0,NPK 12:32:16 Complex
+Maize,Alluvial Loam,55.5,34.6,159.5,7.23,0.56,70.9,13.4,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,135.6,24.5,309.6,5.74,0.8,10.0,54.8,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,211.3,51.8,193.6,7.02,1.11,10.0,31.0,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,164.8,15.0,353.0,6.32,0.74,38.9,41.3,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,220.4,45.7,166.5,7.26,1.09,10.0,36.3,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,90.6,49.5,177.0,7.46,0.86,88.7,43.9,59.7,Split Urea (Neem Coated)
+Tomato,Sandy Loam,114.9,44.8,323.6,6.58,1.07,42.6,26.3,15.2,Split Urea (Neem Coated)
+Rice,Sandy Loam,103.2,14.8,190.6,8.33,0.37,52.1,41.5,7.9,Split Urea (Neem Coated)
+Tomato,Black Regur,211.3,35.4,250.7,8.25,1.11,10.0,34.4,24.9,DAP + Zinc Sulphate
+Rice,Red Lateritic,231.6,54.3,247.3,6.28,0.97,15.3,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Alluvial Loam,184.8,13.2,155.3,8.44,1.11,30.5,42.9,12.6,DAP + Zinc Sulphate
+Cotton,Sandy Loam,147.0,46.8,373.5,8.32,0.58,67.6,13.7,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,224.2,44.0,84.0,6.76,0.97,14.7,16.1,22.1,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,185.1,29.5,339.5,7.38,0.52,81.8,50.4,21.4,Split Urea (Neem Coated)
+Potato,Red Lateritic,161.4,58.2,124.1,8.07,0.36,63.9,36.3,66.8,Split Urea (Neem Coated)
+Potato,Clay Loam,231.2,43.8,195.7,5.53,0.37,31.7,48.9,57.2,MOP Potash Balanced
+Chickpea,Sandy Loam,56.7,41.1,110.7,8.2,0.59,10.0,40.3,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,56.3,10.5,352.9,7.78,0.47,62.4,34.3,5.0,Split Urea (Neem Coated)
+Potato,Black Regur,151.6,54.2,242.3,7.87,1.17,66.4,39.8,51.0,Split Urea (Neem Coated)
+Tomato,Black Regur,167.8,14.4,131.8,7.16,1.1,11.5,52.7,40.8,DAP + Zinc Sulphate
+Chickpea,Clay Loam,149.6,16.0,91.0,6.89,0.66,10.0,62.2,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,160.9,44.3,369.5,7.02,0.54,96.2,37.6,17.4,Split Urea (Neem Coated)
+Rice,Alluvial Loam,169.5,24.3,163.5,6.31,0.53,29.4,33.2,11.5,DAP + Zinc Sulphate
+Rice,Sandy Loam,84.6,35.8,154.0,8.03,1.13,66.5,23.2,12.8,Split Urea (Neem Coated)
+Wheat,Red Lateritic,155.8,17.7,291.4,8.03,0.97,43.3,39.0,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,131.4,26.4,221.2,6.81,1.11,10.0,53.1,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,140.8,41.8,88.6,6.44,0.73,66.4,50.6,71.5,Split Urea (Neem Coated)
+Potato,Clay Loam,168.3,56.4,142.7,6.83,0.31,60.6,37.9,64.3,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,48.1,41.4,261.6,7.69,0.78,10.0,40.1,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,194.4,54.6,149.0,5.67,0.51,10.0,10.0,5.1,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,214.9,38.3,310.2,7.4,0.86,73.1,42.8,25.3,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,183.3,56.7,205.7,6.57,0.91,91.7,26.8,39.2,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,221.4,26.6,104.6,6.01,0.35,66.5,53.0,52.7,Split Urea (Neem Coated)
+Tomato,Red Lateritic,65.9,17.4,121.0,6.43,0.89,52.4,50.1,42.2,Split Urea (Neem Coated)
+Wheat,Clay Loam,44.7,52.7,336.4,6.54,0.56,98.7,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Red Lateritic,236.5,42.6,150.2,6.72,0.52,10.0,28.2,38.3,MOP Potash Balanced
+Maize,Red Lateritic,168.2,34.8,215.9,7.69,0.83,26.8,13.2,5.0,NPK 12:32:16 Complex
+Rice,Sandy Loam,184.5,31.8,284.5,6.59,1.0,26.1,26.7,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,137.2,57.0,248.0,7.75,0.95,73.0,37.4,50.3,Split Urea (Neem Coated)
+Maize,Red Lateritic,55.2,17.7,179.3,7.95,0.8,65.2,28.1,5.0,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,131.6,41.8,272.1,5.75,0.74,10.0,39.7,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,210.4,56.6,256.7,7.4,0.46,10.0,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Clay Loam,177.1,56.3,208.4,8.13,0.49,10.0,27.1,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,139.3,46.7,255.4,8.31,0.85,10.0,35.5,5.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,204.0,45.9,181.8,5.61,0.3,16.6,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,191.9,27.5,294.3,8.32,0.55,10.0,41.3,19.1,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,188.0,34.8,176.0,8.01,0.79,82.4,45.8,43.2,Split Urea (Neem Coated)
+Wheat,Black Regur,175.1,42.7,224.6,7.62,0.6,44.3,17.2,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,123.4,25.8,296.9,7.74,0.32,10.0,53.7,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,110.8,9.3,317.2,6.11,1.1,47.2,46.3,5.0,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,145.4,36.4,228.8,6.85,0.77,53.8,22.7,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,239.3,58.9,136.6,6.16,0.76,70.5,24.9,48.5,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,182.4,42.9,224.3,7.91,1.02,10.0,38.8,5.0,DAP + Zinc Sulphate
+Rice,Black Regur,80.5,55.2,321.0,6.19,0.75,74.7,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,96.3,38.2,170.4,6.76,1.02,34.4,10.3,5.0,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,173.0,46.6,269.1,8.25,0.38,92.3,35.6,30.8,Split Urea (Neem Coated)
+Potato,Clay Loam,148.1,49.7,285.2,5.7,0.82,66.3,43.7,45.3,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,185.0,49.2,204.0,8.32,1.0,88.5,33.3,39.5,Split Urea (Neem Coated)
+Potato,Black Regur,210.7,27.5,366.2,6.63,0.62,34.2,63.0,34.5,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,163.5,11.3,155.1,8.39,0.4,10.0,66.3,5.0,DAP + Zinc Sulphate
+Mustard,Red Lateritic,80.4,52.0,296.6,5.82,0.35,44.6,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,80.9,26.0,141.6,7.97,0.78,121.3,53.5,47.8,Split Urea (Neem Coated)
+Maize,Black Regur,178.2,18.7,363.9,5.75,0.63,17.5,27.2,5.0,DAP + Zinc Sulphate
+Wheat,Red Lateritic,234.8,37.6,180.9,7.86,0.72,19.2,21.7,9.2,DAP + Zinc Sulphate
+Maize,Sandy Loam,90.1,32.6,320.1,6.77,0.65,56.7,15.1,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,104.0,64.9,303.9,6.39,1.03,10.0,19.7,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,71.4,61.2,351.3,6.76,0.56,100.2,33.7,36.5,Split Urea (Neem Coated)
+Cotton,Red Lateritic,172.2,33.8,343.6,8.17,0.71,53.3,25.0,5.0,Split Urea (Neem Coated)
+Rice,Black Regur,156.6,11.1,250.0,7.98,1.13,29.9,44.7,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,173.3,17.0,302.2,7.82,0.63,10.0,28.7,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,130.8,51.8,128.2,7.14,0.78,10.0,31.0,7.9,DAP + Zinc Sulphate
+Tomato,Clay Loam,160.5,12.8,281.0,7.98,0.83,13.9,54.1,20.9,DAP + Zinc Sulphate
+Chickpea,Clay Loam,111.6,12.7,283.6,6.5,0.82,10.0,65.0,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,102.7,54.5,277.0,6.38,0.57,10.0,28.7,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,68.9,55.0,81.8,6.27,1.17,10.0,28.3,5.8,DAP + Zinc Sulphate
+Maize,Red Lateritic,214.6,63.8,343.7,7.71,0.64,13.9,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,106.0,36.1,82.8,5.71,0.83,43.1,33.8,47.3,Split Urea (Neem Coated)
+Potato,Clay Loam,177.5,51.6,117.5,7.55,0.64,55.4,42.1,67.7,Split Urea (Neem Coated)
+Rice,Clay Loam,175.8,21.0,227.0,7.78,1.16,25.8,36.1,5.0,DAP + Zinc Sulphate
+Rice,Black Regur,221.5,47.8,97.2,7.57,0.9,17.0,12.8,20.4,NPK 12:32:16 Complex
+Potato,Sandy Loam,220.1,9.8,270.6,6.22,0.93,24.5,78.4,47.3,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,174.6,14.0,109.3,7.49,0.31,80.6,63.9,52.1,Split Urea (Neem Coated)
+Potato,Clay Loam,163.6,53.7,303.7,6.66,0.54,61.5,40.3,42.8,Split Urea (Neem Coated)
+Potato,Red Lateritic,208.6,35.8,166.6,6.04,0.75,37.8,55.8,61.1,MOP Potash Balanced
+Cotton,Black Regur,192.1,51.0,227.0,8.2,0.6,51.4,10.0,11.4,Split Urea (Neem Coated)
+Wheat,Red Lateritic,176.0,32.1,345.4,7.06,0.76,40.4,26.4,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,188.5,14.3,177.5,8.01,0.91,10.0,31.0,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,122.9,64.2,347.4,8.44,0.81,71.5,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,117.6,31.2,84.2,7.21,0.63,108.7,49.0,55.4,Split Urea (Neem Coated)
+Wheat,Sandy Loam,63.3,59.7,145.7,7.26,0.67,93.9,10.0,13.9,Split Urea (Neem Coated)
+Cotton,Black Regur,66.3,59.7,359.3,7.03,0.64,103.6,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Sandy Loam,53.5,15.3,364.6,7.42,0.69,10.0,62.8,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,209.1,58.8,247.4,7.78,1.09,10.0,25.0,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,150.7,38.0,251.3,7.98,0.86,10.0,43.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,57.1,32.2,147.3,6.54,0.75,132.7,48.1,47.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,181.7,30.2,342.5,8.47,0.46,26.6,28.1,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,186.4,32.1,119.9,5.51,0.41,10.0,15.6,9.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,121.1,60.3,309.8,5.83,0.65,80.4,34.5,42.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,58.1,55.1,338.7,6.23,1.2,94.3,10.0,5.0,Split Urea (Neem Coated)
+Rice,Clay Loam,112.6,27.7,323.7,5.51,1.01,52.8,30.3,5.0,Split Urea (Neem Coated)
+Maize,Black Regur,42.4,18.7,205.2,6.12,0.96,70.6,27.2,5.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,114.7,43.4,166.8,7.8,0.77,77.2,49.2,61.1,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,199.9,58.2,331.4,7.63,0.5,39.9,10.0,5.0,NPK 12:32:16 Complex
+Maize,Sandy Loam,80.6,20.4,118.2,7.8,0.46,56.2,25.7,9.2,Split Urea (Neem Coated)
+Potato,Red Lateritic,213.0,64.3,142.1,7.88,0.41,45.8,31.0,64.4,Split Urea (Neem Coated)
+Cotton,Red Lateritic,207.8,12.6,247.0,7.57,0.44,32.1,43.4,8.7,DAP + Zinc Sulphate
+Cotton,Clay Loam,40.7,56.1,337.1,7.52,0.95,112.3,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Clay Loam,173.2,31.5,121.6,5.7,0.6,10.0,16.1,8.8,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,58.8,61.0,230.8,5.74,0.74,96.0,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,201.9,19.9,197.4,6.65,0.51,10.0,58.8,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,136.0,36.9,275.0,5.98,1.16,10.0,44.0,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,143.1,27.2,137.7,8.43,0.74,12.3,19.8,6.6,DAP + Zinc Sulphate
+Rice,Black Regur,173.6,42.3,376.4,5.59,0.5,33.9,17.6,5.0,NPK 12:32:16 Complex
+Mustard,Black Regur,109.0,47.2,279.9,5.82,0.48,32.5,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,65.2,47.3,365.9,6.49,0.71,10.0,35.0,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,166.3,10.7,321.9,7.85,0.52,36.9,45.0,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,140.3,39.7,216.8,5.7,0.93,17.7,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Red Lateritic,70.4,56.4,266.8,7.89,0.84,135.8,27.0,31.1,Split Urea (Neem Coated)
+Tomato,Red Lateritic,72.0,49.2,366.9,6.21,0.75,60.9,22.4,9.4,Split Urea (Neem Coated)
+Maize,Alluvial Loam,221.4,12.2,116.2,7.26,0.7,10.0,32.9,9.5,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,154.9,22.0,297.8,6.72,0.62,91.0,57.0,27.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,67.5,59.4,130.0,5.9,1.15,138.0,24.4,49.3,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,207.9,45.4,277.0,7.63,0.81,78.2,36.6,29.7,Split Urea (Neem Coated)
+Rice,Black Regur,152.5,40.0,159.1,7.84,0.47,41.4,19.6,12.1,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,131.6,55.5,376.0,8.09,0.37,10.0,27.8,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,147.2,32.9,267.6,5.55,0.96,62.8,25.7,6.0,Split Urea (Neem Coated)
+Rice,Clay Loam,210.2,47.8,258.3,7.66,0.97,21.4,12.8,5.0,NPK 12:32:16 Complex
+Tomato,Black Regur,68.3,19.9,289.1,8.42,1.01,52.4,47.9,19.8,Split Urea (Neem Coated)
+Mustard,Clay Loam,191.3,29.9,84.6,5.85,1.0,10.0,17.5,13.7,DAP + Zinc Sulphate
+Wheat,Black Regur,167.4,9.7,194.9,7.19,0.59,36.1,45.9,7.3,DAP + Zinc Sulphate
+Cotton,Sandy Loam,46.9,38.3,240.5,8.49,0.69,103.9,21.0,9.6,Split Urea (Neem Coated)
+Rice,Black Regur,45.8,56.9,147.0,7.4,0.49,88.9,10.0,13.7,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,228.7,17.0,307.5,7.23,0.68,10.0,50.4,17.3,DAP + Zinc Sulphate
+Potato,Sandy Loam,235.7,33.2,363.3,6.1,0.7,26.3,58.1,34.9,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,140.7,64.3,192.6,6.76,0.3,10.0,20.2,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,165.8,8.1,201.7,8.07,0.74,36.2,47.3,6.4,DAP + Zinc Sulphate
+Chickpea,Black Regur,157.8,35.9,90.2,6.28,1.04,10.0,44.9,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,88.8,30.4,297.7,5.52,1.15,84.8,27.9,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,237.5,59.0,276.1,6.99,1.17,10.0,10.0,5.0,NPK 12:32:16 Complex
+Rice,Red Lateritic,143.5,36.6,240.1,5.67,0.44,43.7,22.5,5.0,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,67.3,41.6,132.8,8.02,0.68,97.0,18.2,24.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,236.9,52.3,348.4,7.56,0.81,10.0,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Alluvial Loam,101.2,56.4,313.9,6.66,1.05,51.9,16.2,16.5,Split Urea (Neem Coated)
+Soybean,Sandy Loam,193.7,8.7,87.7,8.25,0.9,10.0,68.5,13.3,DAP + Zinc Sulphate
+Rice,Sandy Loam,81.9,36.9,176.1,6.68,1.13,67.9,22.3,9.9,Split Urea (Neem Coated)
+Cotton,Red Lateritic,185.7,24.1,333.4,7.76,0.51,44.7,33.4,5.0,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,150.9,23.7,143.2,7.22,0.59,10.0,55.5,5.9,DAP + Zinc Sulphate
+Soybean,Sandy Loam,139.6,37.8,123.0,6.1,0.31,10.0,43.2,8.6,DAP + Zinc Sulphate
+Chickpea,Black Regur,226.5,38.9,155.9,7.88,0.46,10.0,42.3,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,57.3,59.5,276.9,6.09,0.62,96.1,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,155.6,17.5,253.2,5.69,0.46,10.0,60.9,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,164.3,50.1,256.9,7.69,0.51,10.0,32.5,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,151.6,48.5,283.8,8.46,0.65,38.0,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,238.7,30.1,129.6,7.68,0.82,61.0,49.9,49.4,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,218.8,52.5,329.4,5.55,0.49,10.0,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Sandy Loam,150.0,38.4,166.0,7.51,0.89,10.0,42.7,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,60.0,19.2,151.6,7.57,0.81,70.5,37.7,13.1,Split Urea (Neem Coated)
+Cotton,Clay Loam,214.5,54.7,291.7,6.04,0.98,43.8,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Clay Loam,73.4,8.3,116.7,8.3,0.8,83.3,47.1,26.1,Split Urea (Neem Coated)
+Tomato,Red Lateritic,63.4,20.7,340.1,5.73,0.72,54.5,47.2,13.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,108.2,55.3,201.8,6.86,0.36,120.6,28.0,39.8,Split Urea (Neem Coated)
+Maize,Clay Loam,150.5,15.7,90.0,6.18,1.13,27.3,29.8,13.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,103.9,33.0,90.0,7.01,0.98,42.9,36.5,46.3,Split Urea (Neem Coated)
+Maize,Black Regur,175.9,8.7,205.3,6.63,0.74,14.9,35.9,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,158.9,44.7,159.9,7.29,0.9,60.3,48.1,62.0,Split Urea (Neem Coated)
+Maize,Sandy Loam,104.7,50.8,219.6,6.07,0.66,56.9,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Sandy Loam,135.3,22.7,189.0,7.58,0.58,10.0,56.3,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,111.3,18.1,213.0,6.4,1.03,71.8,38.6,13.3,Split Urea (Neem Coated)
+Tomato,Clay Loam,69.2,56.8,121.8,6.76,1.06,64.6,15.8,42.1,Split Urea (Neem Coated)
+Soybean,Clay Loam,233.4,48.3,324.9,6.6,0.39,10.0,34.1,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,102.9,32.7,347.9,7.86,0.79,69.2,25.9,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,104.0,32.4,300.8,6.98,0.33,29.4,15.3,5.0,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,172.2,50.8,333.9,7.1,1.17,10.0,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Black Regur,140.8,19.9,100.3,7.25,0.53,24.0,47.9,45.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,75.5,35.6,232.7,6.78,0.52,41.7,12.5,5.0,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,115.4,47.2,336.2,7.83,0.82,10.0,35.0,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,164.7,58.5,121.5,7.81,0.71,64.6,10.0,25.5,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,103.4,58.2,181.2,6.91,0.78,35.6,10.0,5.0,NPK 12:32:16 Complex
+Maize,Sandy Loam,78.5,39.0,327.2,6.11,0.45,63.4,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Black Regur,132.8,29.5,279.5,7.74,0.65,10.0,50.4,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,221.9,29.5,360.7,8.38,0.53,10.0,17.8,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,230.5,64.9,269.8,5.57,0.92,76.0,19.7,30.7,Split Urea (Neem Coated)
+Mustard,Red Lateritic,133.9,51.2,305.6,7.59,0.67,23.7,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Clay Loam,238.2,18.8,116.9,7.33,0.46,11.5,38.0,17.7,DAP + Zinc Sulphate
+Soybean,Red Lateritic,58.1,53.3,368.9,8.3,0.93,10.0,29.7,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,190.7,8.1,361.7,8.5,0.65,10.0,36.4,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,177.0,22.3,299.7,8.23,0.62,10.0,24.1,5.0,DAP + Zinc Sulphate
+Mustard,Red Lateritic,95.6,56.1,263.9,6.45,1.11,38.7,10.0,5.0,NPK 12:32:16 Complex
+Cotton,Alluvial Loam,92.3,8.2,347.2,6.54,0.5,75.8,47.2,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,141.0,32.6,137.2,7.5,1.08,65.1,26.0,23.4,Split Urea (Neem Coated)
+Rice,Red Lateritic,236.8,41.0,306.5,8.35,0.62,10.0,18.7,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,205.7,36.7,294.1,7.46,0.38,30.3,22.4,5.0,NPK 12:32:16 Complex
+Maize,Red Lateritic,51.9,31.8,335.1,6.72,0.78,71.3,15.8,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,232.1,20.0,211.5,5.65,0.91,60.1,58.7,38.5,Split Urea (Neem Coated)
+Tomato,Black Regur,82.2,40.9,335.3,7.13,0.46,54.0,29.7,13.6,Split Urea (Neem Coated)
+Soybean,Red Lateritic,119.0,61.2,279.3,6.68,0.37,10.0,22.9,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,43.3,39.6,196.2,5.81,0.44,105.7,19.9,15.5,Split Urea (Neem Coated)
+Sugarcane,Black Regur,142.8,8.8,363.4,7.6,0.66,91.3,68.4,18.2,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,143.1,54.2,314.9,7.5,0.55,10.0,29.0,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,126.6,64.9,156.2,7.46,0.5,70.0,10.0,12.5,Split Urea (Neem Coated)
+Rice,Black Regur,228.6,11.5,365.2,5.79,0.67,10.0,44.3,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,75.8,50.8,123.1,6.32,1.05,131.8,31.9,50.3,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,98.0,8.2,270.7,6.86,1.12,10.0,69.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,72.6,40.8,102.8,8.01,0.87,129.6,40.6,53.0,Split Urea (Neem Coated)
+Tomato,Red Lateritic,145.4,12.5,194.8,8.45,0.67,19.7,54.3,32.4,DAP + Zinc Sulphate
+Rice,Alluvial Loam,76.5,30.2,81.8,6.76,0.32,67.8,28.1,22.4,Split Urea (Neem Coated)
+Wheat,Sandy Loam,92.4,45.6,139.8,7.99,0.86,77.7,14.7,14.7,Split Urea (Neem Coated)
+Sugarcane,Black Regur,220.3,23.8,369.3,6.75,0.86,66.0,55.4,17.4,Split Urea (Neem Coated)
+Tomato,Clay Loam,97.6,64.2,342.1,6.16,1.04,56.0,10.0,12.7,Split Urea (Neem Coated)
+Wheat,Sandy Loam,109.8,57.9,353.4,6.32,1.11,75.0,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Clay Loam,79.0,23.2,156.3,8.01,0.71,49.3,45.0,37.5,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,177.4,51.1,265.0,6.62,0.45,46.3,10.0,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,167.7,50.7,332.2,6.8,0.38,39.0,10.3,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,86.8,20.7,139.8,5.87,0.99,45.4,47.2,39.7,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,155.0,26.1,156.6,7.93,0.45,10.0,53.4,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,98.5,51.2,133.3,5.52,1.0,51.2,20.7,40.6,Split Urea (Neem Coated)
+Tomato,Clay Loam,54.4,52.8,134.3,7.03,1.07,69.0,19.3,40.4,Split Urea (Neem Coated)
+Mustard,Black Regur,62.1,33.1,197.7,5.51,1.17,46.0,14.7,5.0,Split Urea (Neem Coated)
+Maize,Sandy Loam,161.5,17.5,369.5,8.05,0.98,23.6,28.3,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,237.4,15.7,305.0,7.3,0.51,19.7,73.3,42.7,DAP + Zinc Sulphate
+Soybean,Red Lateritic,87.7,22.1,369.3,7.75,0.63,10.0,56.9,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,90.1,30.7,125.6,8.42,0.81,56.0,16.8,8.3,Split Urea (Neem Coated)
+Tomato,Red Lateritic,99.1,51.2,359.5,8.42,0.91,50.9,20.7,10.4,Split Urea (Neem Coated)
+Cotton,Sandy Loam,168.5,28.2,143.1,7.25,0.54,52.8,29.8,22.6,Split Urea (Neem Coated)
+Tomato,Red Lateritic,187.5,9.1,147.4,5.58,0.67,10.0,57.3,38.7,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,97.5,31.5,153.7,5.88,0.88,10.0,48.7,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,202.4,27.0,97.2,7.99,1.14,10.0,41.7,45.4,MOP Potash Balanced
+Tomato,Sandy Loam,172.2,27.1,88.3,6.44,0.8,14.1,41.7,46.6,MOP Potash Balanced
+Cotton,Sandy Loam,137.6,14.0,264.3,6.95,0.56,60.1,42.2,6.4,Split Urea (Neem Coated)
+Potato,Clay Loam,178.2,40.4,287.5,6.91,0.74,51.3,51.8,45.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,45.9,48.5,187.0,7.08,1.1,10.0,33.9,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,119.2,46.4,226.0,6.12,0.56,10.0,35.7,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,115.7,29.5,81.5,5.91,0.65,10.0,50.4,5.8,DAP + Zinc Sulphate
+Rice,Red Lateritic,210.2,53.3,159.0,5.94,0.8,23.3,10.0,12.1,NPK 12:32:16 Complex
+Tomato,Alluvial Loam,78.6,37.5,143.2,7.42,0.62,54.3,32.6,39.2,Split Urea (Neem Coated)
+Maize,Clay Loam,175.7,41.4,164.6,6.42,0.82,26.1,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,120.4,15.8,262.3,7.63,0.73,17.4,29.7,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,66.5,60.3,205.6,6.37,0.8,101.8,34.5,55.9,Split Urea (Neem Coated)
+Rice,Black Regur,173.3,13.6,138.9,6.91,0.36,24.3,42.5,14.8,DAP + Zinc Sulphate
+Mustard,Black Regur,92.3,44.9,100.1,6.51,0.74,38.2,10.0,11.7,NPK 12:32:16 Complex
+Chickpea,Black Regur,162.0,58.1,234.5,7.77,0.5,10.0,25.6,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,192.6,28.4,259.8,5.91,0.93,43.4,29.7,7.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,144.4,38.6,183.7,6.04,1.03,100.8,42.5,42.2,Split Urea (Neem Coated)
+Potato,Black Regur,98.1,57.3,107.9,6.26,1.03,88.4,37.1,68.9,Split Urea (Neem Coated)
+Potato,Red Lateritic,131.1,26.8,298.3,6.11,1.08,65.1,63.7,43.6,Split Urea (Neem Coated)
+Potato,Sandy Loam,47.4,51.4,365.8,5.62,1.18,106.2,42.3,34.6,Split Urea (Neem Coated)
+Potato,Clay Loam,53.6,25.7,326.9,6.67,1.07,95.1,64.6,39.7,Split Urea (Neem Coated)
+Soybean,Sandy Loam,229.2,21.3,195.5,7.84,0.33,10.0,57.6,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,44.2,34.8,352.6,6.7,1.11,103.7,24.1,5.0,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,224.5,37.6,303.7,6.38,0.4,10.0,43.4,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,125.9,44.4,347.1,5.6,1.07,73.1,48.3,37.1,Split Urea (Neem Coated)
+Maize,Alluvial Loam,219.6,36.7,317.9,6.87,0.71,10.0,11.6,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,230.6,40.8,110.3,6.46,0.72,21.9,18.9,18.6,NPK 12:32:16 Complex
+Cotton,Sandy Loam,89.4,51.5,115.6,6.29,1.07,91.7,10.0,26.3,Split Urea (Neem Coated)
+Potato,Clay Loam,223.4,31.9,359.9,5.83,0.43,30.7,59.2,35.3,DAP + Zinc Sulphate
+Mustard,Sandy Loam,178.8,39.3,100.0,8.41,1.06,10.0,10.0,11.7,NPK 12:32:16 Complex
+Soybean,Alluvial Loam,73.2,36.0,248.7,7.42,0.78,10.0,44.8,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,91.7,62.5,254.7,7.37,0.66,40.2,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Red Lateritic,60.0,47.7,283.2,7.18,0.6,65.1,23.7,20.6,Split Urea (Neem Coated)
+Mustard,Black Regur,133.0,20.9,291.8,6.33,0.71,14.1,25.3,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,64.8,26.3,249.6,8.41,0.32,127.7,53.2,33.4,Split Urea (Neem Coated)
+Wheat,Sandy Loam,190.3,55.6,156.6,7.63,1.06,42.8,10.0,12.5,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,40.5,11.4,300.3,5.61,0.7,10.0,66.2,5.0,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,69.8,52.1,378.5,5.65,0.68,134.5,30.8,16.2,Split Urea (Neem Coated)
+Rice,Sandy Loam,193.7,42.6,127.7,6.73,0.97,26.1,17.3,16.3,NPK 12:32:16 Complex
+Maize,Clay Loam,140.7,59.2,304.7,6.42,0.71,42.8,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Red Lateritic,91.7,41.6,225.6,7.97,0.84,87.4,18.2,11.6,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,199.4,44.6,259.0,7.57,1.03,10.0,10.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,238.4,33.4,361.9,7.03,1.05,62.2,47.0,18.4,Split Urea (Neem Coated)
+Tomato,Black Regur,230.9,35.6,100.1,5.68,0.93,10.0,34.3,45.0,MOP Potash Balanced
+Cotton,Clay Loam,189.0,16.1,274.3,7.27,1.02,40.7,40.3,5.1,Split Urea (Neem Coated)
+Potato,Sandy Loam,64.1,26.5,294.4,5.51,0.87,91.2,63.9,44.1,Split Urea (Neem Coated)
+Potato,Red Lateritic,225.7,47.9,157.2,8.39,0.44,35.3,45.3,62.4,MOP Potash Balanced
+Sugarcane,Alluvial Loam,49.3,14.9,350.1,6.73,0.66,129.9,63.1,20.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,110.4,35.4,379.9,6.81,1.19,76.1,56.2,32.7,Split Urea (Neem Coated)
+Potato,Clay Loam,238.6,49.9,220.6,6.82,0.49,30.9,43.6,53.9,MOP Potash Balanced
+Mustard,Alluvial Loam,122.1,53.4,168.7,8.5,0.71,28.3,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Clay Loam,223.4,47.2,143.2,7.14,0.39,10.0,35.0,5.9,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,119.5,61.2,130.4,8.15,0.33,118.2,22.9,49.3,Split Urea (Neem Coated)
+Mustard,Red Lateritic,89.3,12.1,272.1,8.47,0.82,28.2,33.0,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,101.8,32.0,345.7,5.88,0.68,30.1,15.7,5.0,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,201.4,64.4,233.7,8.44,0.34,10.0,20.1,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,164.1,30.3,352.4,6.46,1.02,55.3,28.0,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,172.6,18.5,353.1,6.21,0.33,10.0,27.4,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,85.3,57.3,126.4,7.81,0.35,10.0,26.3,8.1,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,127.8,31.1,176.9,7.47,0.59,104.7,49.0,43.1,Split Urea (Neem Coated)
+Maize,Red Lateritic,71.4,63.4,114.2,8.09,1.18,69.9,10.0,9.8,Split Urea (Neem Coated)
+Chickpea,Black Regur,107.0,48.0,363.5,7.0,0.69,10.0,34.3,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,150.0,8.7,246.2,5.7,1.18,42.6,46.8,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,230.7,33.8,136.0,6.17,1.0,10.0,35.8,40.2,MOP Potash Balanced
+Potato,Clay Loam,191.4,60.0,248.0,6.39,0.6,52.8,34.8,50.3,Split Urea (Neem Coated)
+Mustard,Black Regur,121.8,26.0,89.1,5.53,0.96,20.2,20.9,13.1,DAP + Zinc Sulphate
+Mustard,Sandy Loam,41.7,62.9,126.9,8.34,0.33,59.8,10.0,8.1,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,138.5,53.5,166.8,5.88,0.47,108.1,29.6,44.4,Split Urea (Neem Coated)
+Soybean,Clay Loam,207.5,63.1,243.8,6.8,0.46,10.0,21.2,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,119.4,16.6,199.8,6.44,0.32,18.0,29.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,106.9,27.7,189.9,6.95,0.99,111.7,52.0,41.3,Split Urea (Neem Coated)
+Soybean,Sandy Loam,179.0,28.7,339.8,6.1,1.09,10.0,51.1,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,106.9,11.8,373.8,6.86,0.48,10.0,65.8,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,146.0,9.1,99.8,8.48,0.68,10.0,68.2,5.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,79.5,23.3,309.0,6.69,0.91,57.6,23.2,5.0,Split Urea (Neem Coated)
+Wheat,Red Lateritic,69.7,47.9,354.8,7.81,0.52,87.3,12.7,5.0,Split Urea (Neem Coated)
+Maize,Black Regur,209.4,53.1,350.9,7.82,0.34,15.9,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Alluvial Loam,236.0,8.1,160.9,7.57,0.45,10.0,58.2,36.9,DAP + Zinc Sulphate
+Potato,Alluvial Loam,163.1,38.5,93.1,8.02,0.84,56.5,53.5,70.9,Split Urea (Neem Coated)
+Chickpea,Black Regur,129.5,53.1,170.6,7.5,1.13,10.0,29.9,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,218.8,37.4,226.3,8.28,0.52,25.4,21.8,5.0,NPK 12:32:16 Complex
+Rice,Clay Loam,210.3,26.4,242.6,7.28,1.09,14.1,31.4,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,48.4,14.9,84.8,6.15,0.94,45.2,30.5,13.7,Split Urea (Neem Coated)
+Rice,Red Lateritic,238.8,39.5,302.3,7.58,1.1,10.0,20.0,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,236.2,48.5,182.4,7.42,0.95,10.0,10.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,158.1,44.2,368.4,7.83,1.2,97.3,37.7,17.5,Split Urea (Neem Coated)
+Wheat,Sandy Loam,180.3,40.4,205.4,8.17,1.16,41.5,19.2,5.9,Split Urea (Neem Coated)
+Wheat,Black Regur,222.5,58.2,351.7,8.39,1.05,31.1,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Black Regur,141.1,16.5,285.6,7.68,0.81,10.0,61.7,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,195.5,10.9,325.5,6.3,0.76,36.4,44.9,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,157.0,47.3,176.3,5.72,0.45,27.0,24.1,34.8,MOP Potash Balanced
+Rice,Clay Loam,69.7,21.9,103.7,8.03,0.97,67.6,35.3,19.5,Split Urea (Neem Coated)
+Mustard,Sandy Loam,233.7,28.2,294.6,8.12,0.98,10.0,19.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,138.2,57.1,233.7,5.79,0.32,109.5,26.4,35.5,Split Urea (Neem Coated)
+Soybean,Clay Loam,109.1,11.3,150.5,7.0,0.91,10.0,66.3,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,169.8,30.7,185.5,7.09,0.43,88.1,49.4,41.9,Split Urea (Neem Coated)
+Soybean,Red Lateritic,78.0,58.6,310.7,8.04,0.32,10.0,25.1,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,218.7,63.8,245.8,6.97,0.53,12.2,10.0,5.0,NPK 12:32:16 Complex
+Maize,Sandy Loam,59.7,20.4,339.9,6.59,1.06,64.4,25.7,5.0,Split Urea (Neem Coated)
+Mustard,Sandy Loam,90.3,39.0,115.6,7.74,0.92,37.0,10.0,9.6,NPK 12:32:16 Complex
+Tomato,Black Regur,155.3,25.8,369.3,7.05,0.63,20.3,42.8,9.1,DAP + Zinc Sulphate
+Chickpea,Black Regur,175.1,35.0,239.1,7.19,1.14,10.0,45.7,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,74.4,32.7,194.9,6.64,0.48,80.3,25.9,7.3,Split Urea (Neem Coated)
+Mustard,Clay Loam,123.0,16.1,217.5,7.57,0.42,16.4,29.5,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,87.2,54.0,221.0,6.19,0.53,128.4,29.1,37.2,Split Urea (Neem Coated)
+Tomato,Black Regur,162.6,42.6,305.8,6.53,0.61,23.2,28.2,17.6,DAP + Zinc Sulphate
+Potato,Clay Loam,204.2,52.4,89.8,8.22,1.01,45.2,41.4,71.4,Split Urea (Neem Coated)
+Maize,Clay Loam,43.5,57.1,229.1,7.53,0.32,80.8,10.0,5.0,Split Urea (Neem Coated)
+Maize,Clay Loam,99.2,57.5,85.3,7.75,0.89,59.0,10.0,13.6,Split Urea (Neem Coated)
+Soybean,Red Lateritic,93.5,20.7,189.4,6.14,0.39,10.0,58.1,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,164.3,9.7,145.1,8.35,0.96,10.0,67.7,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,126.2,45.8,208.1,6.91,0.82,64.5,14.5,5.6,Split Urea (Neem Coated)
+Rice,Sandy Loam,124.4,35.7,303.4,6.91,0.88,50.9,23.3,5.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,182.5,13.6,278.6,5.68,0.3,14.0,31.7,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,90.1,50.3,333.9,6.02,0.32,91.0,10.6,5.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,129.4,48.6,315.8,7.76,0.88,64.2,12.1,5.0,Split Urea (Neem Coated)
+Cotton,Red Lateritic,68.5,26.5,257.4,8.32,0.42,91.4,31.3,7.3,Split Urea (Neem Coated)
+Chickpea,Black Regur,112.0,51.6,223.1,7.81,0.71,10.0,31.2,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,129.2,27.3,129.5,5.82,1.02,10.0,52.3,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,77.3,13.7,357.7,7.08,0.69,46.7,53.3,10.6,DAP + Zinc Sulphate
+Rice,Black Regur,182.2,18.8,149.1,7.98,0.94,22.5,38.0,13.5,DAP + Zinc Sulphate
+Tomato,Sandy Loam,148.4,36.8,169.3,7.93,0.31,26.8,33.2,35.8,MOP Potash Balanced
+Chickpea,Sandy Loam,106.2,47.2,287.6,7.26,0.8,10.0,35.0,5.0,DAP + Zinc Sulphate
+Mustard,Clay Loam,198.3,25.7,305.8,5.67,0.64,10.0,21.1,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,75.5,27.4,119.2,7.42,0.44,89.0,30.5,25.8,Split Urea (Neem Coated)
+Mustard,Red Lateritic,121.5,56.6,293.8,7.61,0.73,28.5,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,189.2,33.4,215.7,7.49,0.36,10.0,47.0,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,197.5,20.3,204.3,8.26,1.09,10.0,58.4,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,163.7,24.6,271.2,8.43,0.83,10.0,54.7,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,182.5,27.1,211.5,6.19,0.87,36.1,30.8,5.1,NPK 12:32:16 Complex
+Rice,Alluvial Loam,163.8,34.3,228.3,7.21,0.42,35.0,24.5,5.0,NPK 12:32:16 Complex
+Cotton,Clay Loam,223.1,41.3,345.0,6.56,0.99,35.9,18.4,5.0,NPK 12:32:16 Complex
+Soybean,Clay Loam,215.6,46.7,251.1,7.62,0.8,10.0,35.5,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,44.1,39.4,273.4,5.57,0.33,77.0,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Black Regur,140.9,31.2,204.9,5.67,0.46,10.0,49.0,5.0,DAP + Zinc Sulphate
+Wheat,Red Lateritic,137.7,41.4,112.3,8.1,0.99,58.5,18.3,18.4,Split Urea (Neem Coated)
+Rice,Clay Loam,179.9,33.4,269.7,7.85,1.19,28.4,25.3,5.0,NPK 12:32:16 Complex
+Rice,Clay Loam,41.6,48.7,269.3,6.56,0.93,87.7,12.0,5.0,Split Urea (Neem Coated)
+Maize,Red Lateritic,71.3,17.9,337.3,8.2,0.56,59.0,27.9,5.0,Split Urea (Neem Coated)
+Soybean,Sandy Loam,124.7,48.1,118.6,6.39,0.76,10.0,34.3,9.2,DAP + Zinc Sulphate
+Rice,Red Lateritic,63.0,15.1,219.4,7.73,0.36,67.9,41.2,5.0,Split Urea (Neem Coated)
+Cotton,Red Lateritic,81.1,61.8,178.3,8.33,0.72,98.5,10.0,17.9,Split Urea (Neem Coated)
+Potato,Sandy Loam,139.5,20.1,351.0,7.86,0.42,59.5,69.5,36.5,DAP + Zinc Sulphate
+Mustard,Clay Loam,210.8,26.4,142.0,5.71,0.57,10.0,20.5,6.1,DAP + Zinc Sulphate
+Soybean,Sandy Loam,159.9,22.6,221.1,6.93,0.87,10.0,56.4,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,46.0,52.9,105.6,7.48,0.82,79.8,10.0,10.9,Split Urea (Neem Coated)
+Rice,Sandy Loam,208.5,64.8,197.9,7.62,0.67,27.1,10.0,6.9,NPK 12:32:16 Complex
+Potato,Red Lateritic,134.9,53.2,349.4,7.75,0.71,72.6,40.7,36.7,Split Urea (Neem Coated)
+Maize,Red Lateritic,193.6,29.0,207.0,7.47,0.52,14.9,18.3,5.0,DAP + Zinc Sulphate
+Rice,Black Regur,70.7,51.2,196.1,8.47,1.13,77.2,10.0,7.2,Split Urea (Neem Coated)
+Mustard,Black Regur,216.7,26.6,213.6,7.71,0.64,10.0,20.3,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,185.9,35.0,248.1,5.78,0.35,48.3,23.9,8.6,Split Urea (Neem Coated)
+Potato,Black Regur,144.5,20.8,258.6,7.94,1.06,57.8,68.9,48.9,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,189.8,63.0,101.6,7.54,0.38,10.0,21.3,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,80.9,31.1,359.6,5.82,0.82,10.0,49.0,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,106.7,47.8,156.7,7.24,0.99,55.3,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,52.7,42.5,181.1,8.17,0.66,10.0,39.1,5.0,DAP + Zinc Sulphate
+Rice,Alluvial Loam,170.4,19.4,123.5,8.28,1.01,27.3,37.5,16.9,DAP + Zinc Sulphate
+Rice,Red Lateritic,175.8,30.2,96.9,7.03,1.08,28.9,28.1,20.4,NPK 12:32:16 Complex
+Rice,Red Lateritic,207.9,36.6,107.1,7.72,0.63,18.5,22.5,19.1,DAP + Zinc Sulphate
+Cotton,Sandy Loam,189.7,64.6,269.3,7.31,0.63,56.2,10.0,5.8,Split Urea (Neem Coated)
+Maize,Sandy Loam,224.4,58.5,309.6,7.29,0.82,10.0,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Sandy Loam,128.1,34.7,98.4,6.58,0.77,34.0,35.0,45.2,MOP Potash Balanced
+Soybean,Alluvial Loam,134.8,64.2,288.0,8.26,0.65,10.0,20.3,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,105.1,48.1,134.9,7.97,0.73,10.0,34.3,7.0,DAP + Zinc Sulphate
+Rice,Black Regur,154.8,20.4,288.6,5.81,1.18,33.8,36.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,154.4,34.8,158.5,5.56,0.36,95.6,45.8,45.5,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,208.9,24.4,187.9,6.95,0.92,70.7,54.9,41.6,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,145.3,17.8,267.6,6.62,0.95,10.0,60.6,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,190.6,35.0,279.9,8.22,0.6,10.0,13.0,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,71.0,47.5,188.5,5.89,0.79,10.0,34.8,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,173.6,57.6,349.5,6.08,1.01,24.0,15.1,11.7,NPK 12:32:16 Complex
+Maize,Black Regur,149.4,57.6,133.2,8.29,1.02,39.4,10.0,7.2,NPK 12:32:16 Complex
+Mustard,Black Regur,148.6,33.0,263.7,5.81,0.95,12.1,14.8,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,200.6,42.1,203.0,6.95,0.44,45.0,17.7,14.6,Split Urea (Neem Coated)
+Tomato,Red Lateritic,210.1,36.4,203.7,7.53,0.59,10.0,33.6,31.2,DAP + Zinc Sulphate
+Potato,Black Regur,219.4,22.0,307.5,8.27,0.41,28.9,67.8,42.3,DAP + Zinc Sulphate
+Tomato,Red Lateritic,185.2,10.8,243.9,8.3,0.73,10.0,55.8,25.8,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,203.8,61.7,305.1,7.74,0.6,85.4,22.4,26.0,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,104.0,8.6,80.5,8.21,0.8,60.5,46.9,22.6,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,158.9,53.8,158.0,7.0,0.37,100.3,29.3,45.6,Split Urea (Neem Coated)
+Cotton,Sandy Loam,146.3,52.0,244.4,6.78,0.47,69.6,10.0,9.1,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,117.7,26.8,360.8,6.2,1.04,107.2,52.8,18.6,Split Urea (Neem Coated)
+Potato,Red Lateritic,188.8,31.3,148.7,8.36,0.82,44.1,59.7,63.5,Split Urea (Neem Coated)
+Maize,Black Regur,198.6,61.1,209.1,8.18,0.75,20.1,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Alluvial Loam,109.0,18.3,225.5,6.12,1.1,10.0,60.2,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,97.7,25.9,176.9,5.99,0.84,77.9,64.4,59.7,Split Urea (Neem Coated)
+Rice,Red Lateritic,221.7,8.2,222.0,7.75,0.32,10.0,47.2,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,125.4,41.9,160.9,8.35,0.74,72.5,50.5,61.9,Split Urea (Neem Coated)
+Cotton,Sandy Loam,115.5,40.6,305.3,8.31,0.82,77.8,19.0,5.0,Split Urea (Neem Coated)
+Soybean,Clay Loam,58.6,50.8,225.4,7.66,0.65,10.0,31.9,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,162.8,44.8,238.1,7.07,1.03,10.6,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Clay Loam,176.6,27.7,276.4,6.59,0.4,12.6,41.1,21.5,DAP + Zinc Sulphate
+Wheat,Clay Loam,147.0,62.7,159.2,7.88,0.84,62.0,10.0,12.1,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,223.8,21.9,249.3,6.04,0.73,64.0,57.0,33.4,Split Urea (Neem Coated)
+Potato,Sandy Loam,136.7,21.5,272.1,5.74,0.5,61.1,68.3,47.1,DAP + Zinc Sulphate
+Chickpea,Clay Loam,131.0,29.0,350.7,5.72,1.07,10.0,50.9,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,225.6,51.1,329.8,6.91,0.64,10.0,31.7,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,209.7,20.6,299.1,7.94,0.34,10.0,58.2,5.0,DAP + Zinc Sulphate
+Rice,Alluvial Loam,104.7,8.7,166.0,7.72,0.69,49.4,46.8,11.2,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,150.1,24.2,176.8,7.2,0.81,93.7,55.0,43.1,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,225.1,24.6,117.7,7.47,1.08,10.0,54.7,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,77.7,21.4,361.3,8.23,1.0,75.2,35.7,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,87.3,29.2,317.4,8.13,0.63,119.9,50.7,24.3,Split Urea (Neem Coated)
+Potato,Red Lateritic,226.5,54.8,281.2,5.56,0.66,37.3,39.3,45.8,MOP Potash Balanced
+Maize,Clay Loam,77.2,48.1,258.3,8.25,0.77,67.0,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Sandy Loam,192.8,26.5,221.2,7.45,0.8,10.0,42.2,28.8,DAP + Zinc Sulphate
+Potato,Black Regur,133.0,61.5,154.3,7.26,0.72,76.2,33.5,62.8,Split Urea (Neem Coated)
+Cotton,Clay Loam,168.2,37.4,154.2,6.81,0.65,56.1,21.8,21.1,Split Urea (Neem Coated)
+Rice,Clay Loam,139.9,40.5,229.6,7.93,1.14,46.5,19.1,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,177.2,24.7,378.8,7.49,0.7,26.5,32.9,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,119.9,61.9,348.4,7.69,1.17,50.9,10.0,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,43.4,33.2,149.4,6.05,1.15,81.7,25.5,13.4,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,69.5,37.5,183.7,6.66,0.31,129.7,43.5,42.2,Split Urea (Neem Coated)
+Soybean,Red Lateritic,174.1,50.1,207.6,5.86,0.71,10.0,32.5,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,156.8,55.9,367.2,8.34,0.7,14.7,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,150.7,48.9,257.1,8.04,0.8,10.0,33.6,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,174.3,25.3,228.5,7.64,0.99,27.9,32.3,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,112.9,50.3,181.6,7.38,0.43,45.2,21.5,34.1,Split Urea (Neem Coated)
+Tomato,Black Regur,214.1,61.9,90.0,6.86,0.93,10.0,11.4,46.3,MOP Potash Balanced
+Rice,Red Lateritic,56.4,18.8,93.6,7.32,0.7,71.8,38.0,20.9,Split Urea (Neem Coated)
+Wheat,Black Regur,146.9,26.1,244.3,7.16,1.0,49.7,31.7,5.0,Split Urea (Neem Coated)
+Maize,Sandy Loam,213.0,37.7,180.1,6.85,1.09,10.3,10.7,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,62.3,63.8,297.5,6.01,0.38,69.7,10.0,18.7,Split Urea (Neem Coated)
+Potato,Alluvial Loam,135.9,8.1,345.9,7.57,0.81,56.9,79.9,37.2,DAP + Zinc Sulphate
+Tomato,Red Lateritic,146.1,9.9,247.8,7.55,0.75,18.5,56.6,25.3,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,225.8,32.1,128.6,7.11,0.68,66.7,48.2,49.5,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,226.9,35.1,191.4,8.3,0.81,67.3,45.6,41.1,Split Urea (Neem Coated)
+Potato,Black Regur,187.0,50.9,178.1,5.8,0.3,51.4,42.7,59.6,Split Urea (Neem Coated)
+Potato,Sandy Loam,220.0,15.5,373.2,6.38,0.46,26.5,73.5,33.6,DAP + Zinc Sulphate
+Tomato,Clay Loam,187.5,39.2,87.7,7.12,0.59,12.3,31.1,46.6,MOP Potash Balanced
+Mustard,Clay Loam,129.5,20.0,225.3,6.38,0.62,15.2,26.1,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,49.3,9.2,166.4,5.84,1.01,91.1,79.0,61.1,Split Urea (Neem Coated)
+Wheat,Red Lateritic,51.9,34.6,365.0,7.79,0.82,89.7,24.3,5.0,Split Urea (Neem Coated)
+Wheat,Sandy Loam,115.8,37.8,115.7,7.8,1.04,65.8,21.5,17.9,Split Urea (Neem Coated)
+Wheat,Red Lateritic,167.0,43.9,370.8,5.77,0.88,47.9,16.2,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,128.1,45.3,93.5,5.62,1.05,52.7,15.0,20.9,Split Urea (Neem Coated)
+Mustard,Clay Loam,100.2,62.1,246.1,5.91,0.86,36.9,10.0,5.0,NPK 12:32:16 Complex
+Rice,Sandy Loam,214.8,40.5,284.5,8.28,0.65,17.2,19.1,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,164.8,26.9,274.7,7.72,1.07,10.0,52.7,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,224.1,20.8,276.6,6.13,0.5,10.0,47.1,21.5,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,68.0,17.4,188.8,7.81,1.12,10.0,61.0,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,47.7,49.6,150.7,5.69,0.99,96.5,11.2,13.2,Split Urea (Neem Coated)
+Chickpea,Black Regur,92.1,44.9,341.6,7.34,1.05,10.0,37.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,180.5,46.3,90.6,5.62,0.33,89.3,35.8,54.6,Split Urea (Neem Coated)
+Mustard,Black Regur,158.3,62.0,244.6,6.32,1.18,14.1,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Clay Loam,199.8,31.8,269.6,8.03,0.39,10.0,37.6,22.4,DAP + Zinc Sulphate
+Rice,Clay Loam,115.3,50.1,95.3,7.24,1.15,59.4,10.8,20.6,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,139.6,8.8,257.0,8.41,1.1,57.5,46.7,7.4,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,222.2,13.9,348.0,6.19,0.86,61.9,64.0,20.3,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,160.5,46.7,244.9,6.59,0.39,10.0,35.5,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,92.2,31.3,378.6,6.61,0.51,10.0,48.9,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,83.8,14.2,212.4,7.28,0.71,52.9,31.1,5.0,Split Urea (Neem Coated)
+Maize,Black Regur,197.3,61.8,255.2,8.28,1.01,20.6,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Red Lateritic,137.7,28.7,246.6,7.39,0.88,10.0,51.1,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,63.9,59.5,275.6,5.77,0.6,10.0,24.3,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,226.6,10.1,163.3,6.65,1.15,22.0,78.2,61.6,DAP + Zinc Sulphate
+Wheat,Red Lateritic,206.9,51.9,214.3,8.19,0.6,35.0,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,193.2,29.1,209.0,6.35,0.61,10.0,50.8,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,159.9,53.1,301.6,6.36,1.19,27.8,19.0,18.1,NPK 12:32:16 Complex
+Chickpea,Alluvial Loam,172.0,55.8,319.4,5.84,0.5,10.0,27.6,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,48.9,41.9,225.5,6.79,0.32,102.4,50.5,53.3,Split Urea (Neem Coated)
+Cotton,Clay Loam,201.6,33.3,258.3,8.29,0.96,41.6,25.4,7.2,Split Urea (Neem Coated)
+Chickpea,Black Regur,203.4,46.2,80.7,7.9,0.55,10.0,35.9,5.9,DAP + Zinc Sulphate
+Wheat,Red Lateritic,127.3,56.2,348.1,5.51,0.45,67.6,10.0,5.0,Split Urea (Neem Coated)
+Wheat,Black Regur,110.5,24.1,177.7,6.52,0.38,63.3,33.4,9.6,Split Urea (Neem Coated)
+Cotton,Black Regur,203.5,32.5,125.7,5.76,0.78,40.6,26.1,24.9,Split Urea (Neem Coated)
+Wheat,Red Lateritic,108.9,56.0,252.7,6.55,1.14,74.7,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Black Regur,213.3,27.3,190.3,8.21,0.75,10.0,19.7,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,220.9,44.9,237.7,6.02,0.31,16.3,15.3,5.0,NPK 12:32:16 Complex
+Maize,Sandy Loam,54.4,30.3,141.7,5.6,0.9,69.8,17.1,6.1,Split Urea (Neem Coated)
+Soybean,Black Regur,137.7,61.4,300.0,6.24,0.67,10.0,22.7,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,89.5,16.8,202.8,6.85,1.12,51.5,28.9,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,98.3,58.3,180.7,7.02,0.76,125.5,25.4,42.6,Split Urea (Neem Coated)
+Wheat,Clay Loam,166.9,24.7,195.4,8.41,0.88,41.4,32.9,7.3,Split Urea (Neem Coated)
+Potato,Red Lateritic,156.7,16.6,252.6,6.31,0.85,51.6,72.5,49.7,DAP + Zinc Sulphate
+Wheat,Black Regur,123.4,27.8,345.4,5.97,1.08,59.5,30.2,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,140.9,48.4,261.1,8.13,1.12,105.5,34.0,31.9,Split Urea (Neem Coated)
+Mustard,Black Regur,120.9,32.1,211.7,7.0,0.99,22.7,15.6,5.0,NPK 12:32:16 Complex
+Rice,Black Regur,55.1,15.0,293.9,7.83,1.09,71.0,41.3,5.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,159.4,27.5,170.7,8.25,0.8,54.3,63.0,60.6,DAP + Zinc Sulphate
+Tomato,Black Regur,77.9,13.8,175.7,8.42,1.15,46.5,53.2,34.9,DAP + Zinc Sulphate
+Wheat,Clay Loam,43.1,30.7,163.9,7.95,0.44,91.9,27.7,11.5,Split Urea (Neem Coated)
+Sugarcane,Black Regur,147.5,57.5,341.4,6.17,0.78,106.0,26.1,21.1,Split Urea (Neem Coated)
+Soybean,Red Lateritic,231.0,12.1,186.1,7.82,0.9,10.0,65.6,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,136.8,59.8,187.8,6.24,1.03,76.0,10.0,16.6,Split Urea (Neem Coated)
+Mustard,Clay Loam,200.7,9.2,193.3,6.78,0.75,10.0,35.5,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,183.1,28.1,166.9,5.61,0.43,18.7,19.0,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,102.2,62.3,245.7,7.32,0.43,57.8,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,167.7,39.4,288.9,8.11,1.1,10.0,10.0,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,107.5,62.5,117.6,5.68,0.56,77.5,10.0,17.7,Split Urea (Neem Coated)
+Wheat,Red Lateritic,213.3,56.1,347.0,6.99,0.89,33.9,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Black Regur,181.8,58.4,99.3,7.19,0.85,92.9,25.3,53.4,Split Urea (Neem Coated)
+Mustard,Black Regur,213.5,32.1,198.7,8.3,0.34,10.0,15.6,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,123.7,13.3,197.4,8.29,0.91,28.4,53.7,32.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,98.2,33.2,147.8,8.46,0.35,53.7,14.6,5.3,Split Urea (Neem Coated)
+Potato,Alluvial Loam,224.7,51.0,253.6,6.09,0.31,36.7,42.6,49.5,MOP Potash Balanced
+Maize,Alluvial Loam,222.7,27.5,317.1,7.49,0.46,10.0,19.6,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,41.5,18.1,275.6,6.35,0.56,77.4,38.6,5.0,Split Urea (Neem Coated)
+Mustard,Sandy Loam,164.7,48.8,332.9,7.35,0.36,11.2,10.0,5.0,NPK 12:32:16 Complex
+Maize,Sandy Loam,85.7,14.7,179.1,6.02,0.84,52.3,30.7,5.0,Split Urea (Neem Coated)
+Cotton,Black Regur,67.0,33.9,283.7,8.39,0.6,94.5,24.9,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,99.3,46.2,282.8,7.15,1.16,64.3,14.2,5.0,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,194.2,29.0,150.4,5.76,0.78,10.0,50.9,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,160.0,33.9,95.6,6.93,0.87,10.0,46.6,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,187.3,23.4,208.6,6.7,1.19,10.0,55.7,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,135.6,28.0,373.4,7.45,0.88,28.8,40.9,8.5,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,148.8,38.8,188.3,5.54,0.97,10.0,42.3,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,163.4,11.1,136.5,6.83,0.43,47.1,77.3,65.1,DAP + Zinc Sulphate
+Wheat,Black Regur,193.2,64.5,292.0,5.51,0.47,44.0,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,201.2,29.4,206.2,6.76,0.32,40.4,28.8,14.2,Split Urea (Neem Coated)
+Rice,Alluvial Loam,102.5,9.8,346.0,7.53,1.19,50.7,45.8,5.0,Split Urea (Neem Coated)
+Cotton,Red Lateritic,77.1,56.4,210.4,8.46,1.03,98.2,10.0,13.6,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,177.3,19.8,376.9,7.73,0.42,81.5,58.9,16.4,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,207.6,20.9,115.1,5.78,0.35,70.0,57.9,51.3,Split Urea (Neem Coated)
+Tomato,Black Regur,78.1,8.4,222.6,7.57,0.41,44.6,57.9,28.7,DAP + Zinc Sulphate
+Soybean,Red Lateritic,103.3,60.5,155.0,6.5,0.4,10.0,23.5,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,45.8,12.2,348.8,5.53,1.06,10.0,65.5,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,194.3,53.5,149.8,6.57,1.02,10.0,10.0,5.0,NPK 12:32:16 Complex
+Cotton,Red Lateritic,159.6,13.0,319.9,6.22,0.46,51.2,43.0,5.0,Split Urea (Neem Coated)
+Wheat,Black Regur,170.4,9.6,291.4,7.92,1.18,34.9,46.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,238.8,11.1,204.3,7.73,0.32,54.5,66.4,39.4,DAP + Zinc Sulphate
+Chickpea,Clay Loam,73.5,19.0,345.1,6.82,0.56,10.0,59.6,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,48.8,34.8,229.5,6.07,0.42,10.0,45.8,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,226.0,56.3,228.0,7.88,0.99,38.0,38.0,52.9,MOP Potash Balanced
+Maize,Sandy Loam,237.0,26.0,219.4,8.24,0.86,10.0,20.9,5.0,DAP + Zinc Sulphate
+Tomato,Clay Loam,201.4,14.6,324.7,7.16,0.52,10.0,52.5,15.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,103.4,62.6,108.1,6.27,0.95,88.1,32.5,68.9,Split Urea (Neem Coated)
+Wheat,Black Regur,98.6,53.9,173.5,6.59,0.57,78.0,10.0,10.2,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,83.4,60.2,360.6,6.83,1.13,132.0,23.7,18.6,Split Urea (Neem Coated)
+Potato,Red Lateritic,58.5,58.8,80.2,6.73,0.84,104.4,35.8,72.6,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,170.9,38.9,222.7,7.94,0.47,10.0,42.3,5.0,DAP + Zinc Sulphate
+Rice,Alluvial Loam,169.9,53.3,359.9,6.71,1.12,39.1,10.0,5.0,NPK 12:32:16 Complex
+Potato,Alluvial Loam,117.4,19.8,343.1,5.84,0.9,68.1,69.7,37.6,DAP + Zinc Sulphate
+Potato,Black Regur,146.5,56.9,279.4,7.07,1.05,69.3,37.5,46.1,Split Urea (Neem Coated)
+Wheat,Sandy Loam,72.5,61.4,369.4,6.91,0.64,90.8,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,42.4,11.6,99.1,7.82,0.88,131.5,66.0,53.5,Split Urea (Neem Coated)
+Mustard,Red Lateritic,211.2,52.5,296.8,7.63,1.09,10.0,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Black Regur,210.4,12.3,206.3,6.34,0.54,10.0,54.5,30.8,DAP + Zinc Sulphate
+Maize,Red Lateritic,232.1,48.3,332.7,8.01,0.53,10.0,10.0,5.0,NPK 12:32:16 Complex
+Potato,Red Lateritic,215.5,45.6,362.8,5.93,1.12,38.5,47.3,35.0,DAP + Zinc Sulphate
+Tomato,Black Regur,65.4,62.3,98.7,6.78,1.19,67.9,11.0,45.2,Split Urea (Neem Coated)
+Chickpea,Black Regur,188.5,53.4,206.8,7.03,0.66,10.0,29.7,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,201.3,61.7,322.7,5.79,0.93,51.4,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Black Regur,87.6,60.4,206.8,6.46,0.36,10.0,23.6,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,124.9,26.5,308.4,6.2,1.15,67.4,63.9,42.2,Split Urea (Neem Coated)
+Chickpea,Clay Loam,198.5,8.5,90.1,6.47,1.04,10.0,68.7,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,178.2,20.2,374.1,8.29,0.39,35.4,36.8,5.0,DAP + Zinc Sulphate
+Cotton,Red Lateritic,168.2,50.3,316.9,7.4,0.98,60.5,10.6,5.0,Split Urea (Neem Coated)
+Rice,Sandy Loam,148.7,56.3,93.7,6.95,0.69,48.4,10.0,20.8,Split Urea (Neem Coated)
+Mustard,Sandy Loam,189.5,11.1,247.2,7.8,0.5,10.0,33.8,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,61.3,46.4,270.2,8.4,0.87,79.2,14.0,5.0,Split Urea (Neem Coated)
+Potato,Red Lateritic,207.6,21.7,160.2,6.17,1.19,33.4,68.1,62.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,89.7,51.3,223.3,5.78,0.68,10.0,31.5,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,207.2,28.7,152.4,7.5,1.06,10.0,18.5,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,49.8,64.1,318.5,6.14,0.32,109.6,31.2,40.9,Split Urea (Neem Coated)
+Wheat,Clay Loam,105.5,30.7,251.7,6.84,0.88,67.4,27.7,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,73.8,9.2,297.3,7.47,0.62,10.0,68.1,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,136.6,40.5,230.7,7.09,0.7,10.0,40.9,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,119.6,10.8,363.9,7.72,0.85,37.7,34.1,5.0,NPK 12:32:16 Complex
+Maize,Red Lateritic,55.4,61.6,108.5,7.29,1.08,76.1,10.0,10.5,Split Urea (Neem Coated)
+Rice,Sandy Loam,75.5,35.8,273.8,8.18,0.32,70.1,23.2,5.0,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,118.8,53.5,106.7,5.87,1.16,44.0,18.7,44.1,Split Urea (Neem Coated)
+Wheat,Sandy Loam,227.3,26.9,121.9,7.16,1.0,18.5,31.0,17.1,DAP + Zinc Sulphate
+Maize,Black Regur,88.3,12.6,178.8,6.96,0.42,50.6,32.5,5.0,Split Urea (Neem Coated)
+Rice,Black Regur,143.8,27.6,307.0,6.79,0.68,40.6,30.3,5.0,Split Urea (Neem Coated)
+Potato,Alluvial Loam,231.6,22.9,136.8,7.87,0.75,24.5,67.0,65.1,DAP + Zinc Sulphate
+Potato,Black Regur,68.8,26.0,227.6,7.6,1.08,89.2,64.3,53.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,175.2,25.6,125.3,7.33,0.47,21.0,21.2,8.3,DAP + Zinc Sulphate
+Potato,Clay Loam,87.7,35.4,113.6,7.45,0.71,85.0,56.2,68.2,Split Urea (Neem Coated)
+Soybean,Clay Loam,97.5,27.5,373.3,7.49,1.2,10.0,52.2,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,85.2,57.6,272.3,8.22,1.08,64.5,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,111.8,56.4,285.2,6.98,0.85,10.0,27.0,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,119.1,46.3,134.6,6.13,0.83,10.0,35.8,7.1,DAP + Zinc Sulphate
+Potato,Black Regur,84.5,49.1,109.9,8.38,1.01,90.9,44.3,68.7,Split Urea (Neem Coated)
+Wheat,Black Regur,156.6,12.8,176.2,5.81,1.1,41.4,43.2,9.8,DAP + Zinc Sulphate
+Wheat,Black Regur,171.1,10.9,88.8,6.48,0.64,35.0,44.9,21.5,DAP + Zinc Sulphate
+Rice,Black Regur,213.7,31.1,253.0,8.36,1.05,14.4,27.3,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,74.1,15.9,298.8,6.04,1.07,10.0,62.3,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,136.8,22.2,305.8,8.16,1.07,41.5,35.0,5.0,Split Urea (Neem Coated)
+Potato,Alluvial Loam,228.2,51.1,295.9,6.41,0.83,35.4,42.5,43.9,MOP Potash Balanced
+Wheat,Black Regur,136.0,64.1,372.5,7.19,0.7,66.3,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Black Regur,135.9,17.7,147.6,8.46,0.68,25.2,49.8,38.7,DAP + Zinc Sulphate
+Tomato,Black Regur,68.1,45.0,234.8,7.35,1.03,61.0,26.1,27.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,53.5,14.1,149.6,8.28,1.06,93.0,42.1,21.7,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,182.9,39.0,316.0,7.91,0.79,10.0,42.2,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,167.6,64.1,211.3,7.72,0.51,64.9,10.0,13.5,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,84.7,19.9,98.4,6.25,0.54,71.9,37.0,20.2,Split Urea (Neem Coated)
+Maize,Red Lateritic,208.5,25.9,89.4,8.07,1.09,10.0,21.0,13.1,DAP + Zinc Sulphate
+Rice,Alluvial Loam,104.2,21.3,186.8,7.45,0.76,53.9,35.8,8.4,Split Urea (Neem Coated)
+Maize,Black Regur,223.4,39.5,110.3,5.87,0.76,10.0,10.0,10.3,NPK 12:32:16 Complex
+Tomato,Black Regur,152.9,50.5,235.2,6.47,1.03,29.7,21.3,27.0,MOP Potash Balanced
+Maize,Clay Loam,96.1,35.4,372.6,7.79,1.17,55.3,12.7,5.0,Split Urea (Neem Coated)
+Tomato,Sandy Loam,187.3,20.5,101.0,6.61,0.99,10.0,47.4,44.9,DAP + Zinc Sulphate
+Wheat,Red Lateritic,216.9,54.0,150.5,7.73,0.7,31.8,10.0,13.3,NPK 12:32:16 Complex
+Rice,Sandy Loam,122.2,46.8,228.0,7.43,0.9,55.5,13.7,5.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,193.1,21.3,110.0,7.87,0.36,75.8,57.6,52.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,239.8,64.4,257.1,6.51,0.5,72.2,20.1,32.4,Split Urea (Neem Coated)
+Soybean,Black Regur,138.0,49.4,332.3,6.27,0.35,10.0,33.1,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,164.6,63.4,82.5,8.34,0.74,64.5,31.8,72.3,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,122.8,54.2,254.2,8.14,1.11,79.6,10.0,7.8,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,143.5,10.6,123.2,5.79,0.46,10.0,66.9,5.0,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,234.8,25.0,169.6,7.18,1.14,10.0,54.3,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,112.0,53.0,176.4,7.8,1.15,83.4,10.0,18.1,Split Urea (Neem Coated)
+Maize,Clay Loam,172.1,9.4,295.0,6.16,1.03,16.7,35.3,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,167.1,15.4,324.3,8.46,1.12,47.1,73.6,40.1,DAP + Zinc Sulphate
+Rice,Clay Loam,109.1,39.3,278.4,7.32,1.06,58.1,20.2,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,42.2,63.8,109.6,7.31,1.02,59.6,10.0,10.4,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,211.9,61.4,304.2,6.33,0.69,82.1,22.7,26.1,Split Urea (Neem Coated)
+Potato,Clay Loam,196.0,55.0,214.2,6.38,0.47,49.3,39.1,54.8,Split Urea (Neem Coated)
+Mustard,Red Lateritic,51.1,62.6,188.5,5.75,1.1,56.1,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,124.0,53.5,164.2,7.19,0.46,27.6,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Sandy Loam,169.2,53.5,260.4,7.29,0.52,50.3,10.0,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,84.8,22.7,268.3,6.41,0.33,62.0,34.6,5.0,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,117.5,35.3,251.3,8.03,1.01,38.3,34.5,24.8,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,111.9,37.6,81.7,5.65,0.34,10.0,43.4,5.8,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,44.5,48.7,156.5,6.58,0.86,10.0,33.7,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,198.4,24.9,370.3,7.93,0.62,75.0,54.4,17.3,Split Urea (Neem Coated)
+Mustard,Sandy Loam,43.8,64.6,245.5,7.32,1.07,58.9,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,66.9,33.3,98.2,8.4,0.78,129.3,47.1,53.6,Split Urea (Neem Coated)
+Potato,Clay Loam,106.3,12.5,376.3,5.84,0.9,69.9,76.1,33.2,DAP + Zinc Sulphate
+Wheat,Sandy Loam,110.6,46.8,191.9,7.17,0.41,70.9,13.7,7.7,Split Urea (Neem Coated)
+Soybean,Red Lateritic,160.3,25.6,112.7,8.32,0.7,10.0,53.8,10.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,91.3,44.0,285.1,6.94,1.02,77.5,16.1,5.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,203.7,55.5,110.5,5.62,1.17,83.3,27.8,51.9,Split Urea (Neem Coated)
+Cotton,Black Regur,180.1,14.9,217.6,6.92,0.45,43.8,41.4,12.7,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,59.9,37.1,356.2,6.33,0.83,10.0,43.8,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,192.2,44.7,262.1,7.78,0.53,10.0,37.2,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,228.3,38.9,135.6,8.18,0.36,10.0,42.3,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,212.8,44.1,161.6,7.74,0.91,30.0,16.0,11.8,NPK 12:32:16 Complex
+Potato,Clay Loam,203.4,17.0,253.5,7.74,0.59,33.5,72.2,49.5,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,183.5,23.2,330.3,8.41,1.12,10.0,55.9,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,44.0,8.3,278.2,6.65,1.07,10.0,68.9,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,219.4,21.4,371.1,7.24,0.88,10.0,46.6,8.9,DAP + Zinc Sulphate
+Chickpea,Clay Loam,188.3,53.6,228.3,5.55,1.16,10.0,29.5,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,119.5,44.4,321.7,6.75,0.53,77.5,15.7,5.0,Split Urea (Neem Coated)
+Soybean,Sandy Loam,225.0,33.8,93.6,6.24,1.07,10.0,46.7,12.5,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,152.6,56.7,216.4,6.77,1.06,16.4,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Sandy Loam,101.3,32.8,217.3,6.78,1.16,10.0,47.6,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,56.3,14.9,136.9,6.59,0.64,70.5,41.4,15.1,Split Urea (Neem Coated)
+Chickpea,Black Regur,108.5,45.5,263.4,5.84,0.69,10.0,36.5,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,209.1,56.3,239.3,6.57,0.98,10.0,27.1,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,155.0,9.5,192.4,7.46,0.96,49.9,78.7,57.7,DAP + Zinc Sulphate
+Cotton,Clay Loam,170.4,55.0,204.7,5.64,0.57,61.2,10.0,14.4,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,135.5,35.4,327.5,5.83,0.33,10.0,45.3,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,228.9,11.2,370.8,8.49,0.97,21.5,77.2,33.9,DAP + Zinc Sulphate
+Wheat,Red Lateritic,113.7,24.1,265.3,5.61,1.05,62.0,33.4,5.0,Split Urea (Neem Coated)
+Soybean,Clay Loam,215.6,26.3,323.7,5.9,0.65,10.0,53.2,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,91.7,59.7,360.1,7.15,0.62,93.6,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Sandy Loam,118.1,55.5,305.9,6.73,0.52,29.9,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Red Lateritic,234.3,8.2,351.4,6.5,1.2,10.0,36.3,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,196.1,47.1,128.2,8.29,0.72,10.0,10.0,7.9,NPK 12:32:16 Complex
+Tomato,Black Regur,135.0,40.6,281.7,8.14,0.75,33.3,29.9,20.8,NPK 12:32:16 Complex
+Tomato,Clay Loam,238.2,56.0,339.0,7.71,0.88,10.0,16.5,13.1,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,44.6,31.4,207.1,7.33,0.33,137.4,48.8,39.1,Split Urea (Neem Coated)
+Maize,Sandy Loam,127.0,57.9,159.3,6.02,1.11,48.1,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Red Lateritic,79.3,28.5,97.0,6.95,1.05,10.0,51.3,12.1,DAP + Zinc Sulphate
+Wheat,Sandy Loam,111.0,35.3,341.2,6.9,0.77,66.9,23.7,5.0,Split Urea (Neem Coated)
+Maize,Red Lateritic,138.2,31.9,166.4,8.48,0.83,37.6,15.7,5.0,NPK 12:32:16 Complex
+Sugarcane,Black Regur,229.0,32.4,180.1,8.06,0.92,65.6,47.9,42.7,Split Urea (Neem Coated)
+Maize,Red Lateritic,161.5,27.6,109.7,7.32,0.61,27.0,19.5,10.4,NPK 12:32:16 Complex
+Soybean,Sandy Loam,146.0,35.4,232.9,6.12,0.73,10.0,45.3,5.0,DAP + Zinc Sulphate
+Rice,Alluvial Loam,144.8,19.2,306.3,7.75,1.04,37.3,37.7,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,68.3,62.0,224.1,6.2,1.05,10.0,22.2,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,212.1,18.0,314.0,7.37,0.39,67.3,60.4,24.8,Split Urea (Neem Coated)
+Rice,Alluvial Loam,179.3,46.3,271.6,8.22,0.85,33.0,14.1,5.0,NPK 12:32:16 Complex
+Wheat,Black Regur,154.5,25.1,350.3,5.62,0.36,46.4,32.5,5.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,71.1,34.3,259.9,5.78,0.69,82.2,24.5,5.0,Split Urea (Neem Coated)
+Mustard,Clay Loam,109.8,63.7,276.1,5.58,0.47,33.1,10.0,5.0,NPK 12:32:16 Complex
+Cotton,Clay Loam,202.7,50.7,97.9,6.6,1.16,47.1,10.3,28.6,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,169.3,22.5,145.1,8.34,0.56,85.6,56.5,47.3,Split Urea (Neem Coated)
+Cotton,Clay Loam,175.1,49.1,187.2,8.09,0.97,57.3,11.7,16.7,Split Urea (Neem Coated)
+Chickpea,Black Regur,146.0,25.1,152.7,7.66,0.52,10.0,54.3,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,50.7,21.9,324.9,7.69,1.09,59.9,46.2,15.0,Split Urea (Neem Coated)
+Potato,Black Regur,176.8,12.5,216.2,6.11,0.37,42.3,76.1,54.5,DAP + Zinc Sulphate
+Maize,Red Lateritic,49.3,56.0,185.8,5.97,0.7,78.5,10.0,5.0,Split Urea (Neem Coated)
+Soybean,Black Regur,95.6,56.0,270.1,7.53,0.93,10.0,27.4,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,68.7,62.4,295.6,7.79,0.74,103.5,10.0,5.0,Split Urea (Neem Coated)
+Cotton,Clay Loam,215.9,38.0,329.6,8.08,0.37,37.6,21.3,5.0,NPK 12:32:16 Complex
+Maize,Clay Loam,233.5,33.2,231.9,6.94,0.75,10.0,14.6,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,223.9,12.8,168.4,6.83,0.93,10.0,54.1,35.9,DAP + Zinc Sulphate
+Maize,Clay Loam,115.4,43.4,318.3,6.44,1.05,50.4,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,188.7,35.7,102.3,7.04,0.43,10.0,45.0,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,92.8,48.1,82.4,7.92,0.81,10.0,34.3,5.7,DAP + Zinc Sulphate
+Maize,Clay Loam,195.1,24.0,316.0,6.25,0.35,12.6,22.6,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,112.9,38.2,109.9,7.36,0.5,49.6,10.3,10.3,Split Urea (Neem Coated)
+Mustard,Red Lateritic,46.0,41.2,191.0,8.21,0.9,55.1,10.0,5.0,Split Urea (Neem Coated)
+Rice,Alluvial Loam,183.9,37.1,190.8,6.83,0.5,28.1,22.1,7.9,NPK 12:32:16 Complex
+Wheat,Black Regur,135.4,47.6,297.2,7.65,1.19,61.5,13.0,5.0,Split Urea (Neem Coated)
+Potato,Red Lateritic,153.4,13.3,365.3,6.58,1.16,51.8,75.4,34.6,DAP + Zinc Sulphate
+Potato,Black Regur,41.4,61.8,291.7,7.6,1.2,112.1,33.2,44.4,Split Urea (Neem Coated)
+Potato,Black Regur,130.6,21.5,258.7,7.93,0.89,63.5,68.3,48.8,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,59.5,58.2,166.8,6.02,0.44,94.8,10.0,11.1,Split Urea (Neem Coated)
+Tomato,Clay Loam,210.6,60.4,127.8,7.68,1.11,10.4,12.7,41.3,MOP Potash Balanced
+Rice,Alluvial Loam,123.2,19.9,194.4,6.31,0.92,46.0,37.0,7.4,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,50.6,60.2,173.9,5.76,1.16,144.8,23.7,43.5,Split Urea (Neem Coated)
+Cotton,Red Lateritic,148.5,10.4,163.0,6.91,0.36,54.6,45.3,19.9,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,238.8,9.9,170.8,5.66,1.1,10.0,56.6,35.6,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,181.5,40.6,178.4,8.4,1.1,52.0,19.0,17.9,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,206.1,16.6,201.9,7.84,1.02,69.1,61.7,39.7,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,239.3,42.6,205.1,8.04,0.53,10.0,39.0,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,115.2,26.1,185.0,8.01,0.45,36.1,42.5,33.7,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,213.0,51.2,196.0,8.13,0.9,10.0,31.6,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,191.4,52.5,308.0,6.51,0.53,15.3,19.6,17.3,DAP + Zinc Sulphate
+Wheat,Clay Loam,71.9,52.3,112.8,5.85,0.81,87.9,10.0,18.3,Split Urea (Neem Coated)
+Wheat,Sandy Loam,51.1,63.0,86.3,5.73,0.75,99.6,10.0,21.8,Split Urea (Neem Coated)
+Mustard,Red Lateritic,222.1,10.4,131.1,6.98,0.79,10.0,34.4,7.5,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,92.5,49.8,107.4,6.4,1.19,39.8,10.0,10.7,NPK 12:32:16 Complex
+Maize,Clay Loam,234.6,22.9,123.5,6.71,1.01,10.0,23.6,8.5,DAP + Zinc Sulphate
+Rice,Clay Loam,147.8,47.9,334.4,5.69,1.04,45.9,12.7,5.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,173.8,45.5,373.8,8.15,0.67,56.6,14.8,5.0,Split Urea (Neem Coated)
+Chickpea,Clay Loam,229.5,33.3,168.0,6.26,0.67,10.0,47.1,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,63.3,16.5,352.0,5.52,1.18,10.0,61.7,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,127.8,8.6,208.8,5.73,0.54,25.2,57.7,30.5,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,155.4,16.8,359.6,7.29,0.89,89.0,61.5,18.7,Split Urea (Neem Coated)
+Potato,Sandy Loam,122.2,14.0,94.2,6.25,1.08,64.2,74.8,70.8,DAP + Zinc Sulphate
+Wheat,Red Lateritic,47.6,53.4,209.7,5.74,1.05,97.8,10.0,5.4,Split Urea (Neem Coated)
+Potato,Red Lateritic,191.6,14.3,302.8,8.14,0.3,37.2,74.5,43.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,150.7,18.2,165.2,6.6,0.71,54.5,71.1,61.3,DAP + Zinc Sulphate
+Wheat,Clay Loam,165.0,60.5,224.7,5.64,0.69,54.3,10.0,5.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,160.8,17.1,328.3,7.16,0.51,23.7,28.6,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,91.8,8.6,270.5,7.89,0.4,10.0,68.6,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,230.4,50.5,266.6,7.1,0.48,10.0,10.0,5.0,NPK 12:32:16 Complex
+Potato,Red Lateritic,197.0,11.1,237.2,7.23,0.45,34.0,77.3,51.7,DAP + Zinc Sulphate
+Rice,Red Lateritic,158.6,54.1,322.4,7.56,0.87,43.8,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,186.9,38.4,338.2,5.59,0.46,84.1,42.7,21.6,Split Urea (Neem Coated)
+Maize,Red Lateritic,191.1,53.5,98.2,6.15,0.39,23.0,10.0,11.9,NPK 12:32:16 Complex
+Rice,Clay Loam,147.9,16.5,227.3,7.47,1.01,35.2,40.0,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,183.5,49.9,199.5,6.22,0.36,89.3,32.7,40.1,Split Urea (Neem Coated)
+Mustard,Red Lateritic,163.8,58.4,266.8,6.45,0.65,12.0,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,127.1,31.6,374.8,6.72,1.02,105.2,48.6,16.7,Split Urea (Neem Coated)
+Mustard,Clay Loam,211.9,60.7,303.9,6.66,1.19,10.0,10.0,5.0,NPK 12:32:16 Complex
+Maize,Red Lateritic,88.7,57.1,234.0,6.06,0.43,63.1,10.0,5.0,Split Urea (Neem Coated)
+Rice,Clay Loam,69.6,26.6,162.8,5.64,0.79,69.3,31.2,11.6,Split Urea (Neem Coated)
+Rice,Sandy Loam,162.9,9.0,211.8,7.9,0.72,26.8,46.5,5.1,DAP + Zinc Sulphate
+Cotton,Clay Loam,139.6,13.5,332.0,8.24,0.87,59.1,42.6,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,190.9,64.0,271.9,6.81,0.59,10.0,20.4,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,97.4,62.7,368.7,8.05,0.98,10.0,21.6,5.0,DAP + Zinc Sulphate
+Soybean,Black Regur,230.9,51.1,163.0,5.69,0.93,10.0,31.7,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,40.3,38.4,288.9,8.36,0.75,56.4,10.1,5.0,Split Urea (Neem Coated)
+Rice,Sandy Loam,95.2,57.1,285.0,6.91,0.86,69.6,10.0,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,96.5,58.4,373.3,7.41,1.15,69.5,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Black Regur,51.5,34.8,117.9,7.46,0.82,64.0,35.0,42.6,Split Urea (Neem Coated)
+Maize,Sandy Loam,125.1,29.0,379.3,5.51,1.15,41.7,18.3,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,224.2,53.3,349.1,5.85,0.86,17.8,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Sandy Loam,105.7,35.5,350.9,7.02,0.3,29.8,12.6,5.0,NPK 12:32:16 Complex
+Chickpea,Black Regur,136.9,9.4,128.0,5.99,0.59,10.0,67.9,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,72.8,25.9,135.1,6.61,0.43,67.8,31.8,15.3,Split Urea (Neem Coated)
+Tomato,Red Lateritic,54.6,56.0,349.5,5.85,0.6,70.0,16.5,11.7,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,56.1,53.7,245.9,6.92,0.98,10.0,29.4,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,183.9,15.0,375.0,7.37,0.92,10.0,30.4,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,57.6,9.4,304.6,7.97,0.39,53.0,57.0,17.7,DAP + Zinc Sulphate
+Rice,Alluvial Loam,138.5,44.0,92.5,6.32,1.18,48.2,16.1,21.0,Split Urea (Neem Coated)
+Wheat,Red Lateritic,125.6,42.4,331.4,6.15,0.99,63.6,17.5,5.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,180.0,16.3,312.3,7.19,1.1,42.4,72.8,41.7,DAP + Zinc Sulphate
+Soybean,Red Lateritic,129.6,37.1,331.2,6.11,0.81,10.0,43.8,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,75.6,19.6,94.5,8.44,0.63,57.9,26.4,12.4,Split Urea (Neem Coated)
+Cotton,Sandy Loam,202.2,33.0,124.6,7.99,1.06,41.3,25.7,25.1,Split Urea (Neem Coated)
+Cotton,Sandy Loam,81.0,56.2,264.7,5.91,0.58,96.6,10.0,6.4,Split Urea (Neem Coated)
+Wheat,Clay Loam,84.4,32.5,253.6,8.11,0.69,76.3,26.1,5.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,110.0,47.5,105.2,6.42,0.97,82.3,13.0,27.6,Split Urea (Neem Coated)
+Mustard,Clay Loam,235.0,24.0,365.7,7.16,0.41,10.0,22.6,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,156.7,64.6,354.8,6.64,0.51,47.4,10.0,5.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,129.5,39.4,223.7,6.73,0.51,61.0,20.1,5.0,Split Urea (Neem Coated)
+Rice,Black Regur,79.7,24.0,323.1,6.13,1.03,64.4,33.5,5.0,Split Urea (Neem Coated)
+Tomato,Clay Loam,166.3,21.6,278.4,6.66,0.99,14.6,46.4,21.2,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,162.1,48.7,126.1,5.55,0.31,12.2,10.0,8.2,NPK 12:32:16 Complex
+Chickpea,Black Regur,195.0,39.1,210.7,6.64,0.76,10.0,42.1,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,202.4,45.2,196.6,7.71,0.72,43.4,47.7,57.1,Split Urea (Neem Coated)
+Potato,Clay Loam,161.2,62.3,140.8,7.01,0.62,65.4,32.8,64.6,Split Urea (Neem Coated)
+Potato,Black Regur,146.0,56.1,312.4,8.43,0.43,69.2,38.2,41.7,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,152.8,9.7,262.6,8.48,0.79,52.7,45.9,6.7,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,140.0,44.0,220.0,5.8,0.92,10.0,37.8,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,60.9,40.1,278.1,8.13,0.89,134.0,41.2,29.6,Split Urea (Neem Coated)
+Sugarcane,Black Regur,120.8,38.1,375.6,6.02,0.88,109.8,43.0,16.6,Split Urea (Neem Coated)
+Wheat,Sandy Loam,148.9,40.7,83.4,6.64,1.1,53.9,19.0,22.2,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,176.2,37.8,342.6,5.98,0.83,88.1,43.2,21.0,Split Urea (Neem Coated)
+Chickpea,Black Regur,113.9,39.0,159.9,6.47,1.14,10.0,42.2,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,195.2,46.6,259.0,5.97,0.56,83.6,35.6,32.1,Split Urea (Neem Coated)
+Soybean,Clay Loam,197.2,64.6,212.9,6.15,0.34,10.0,19.9,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,82.4,39.8,81.3,7.14,1.07,68.7,19.7,22.5,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,221.7,64.2,245.3,5.63,1.04,10.0,20.3,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,89.3,22.5,350.0,6.45,0.64,10.0,56.5,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,117.4,18.4,145.0,7.51,0.75,67.6,71.0,64.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,180.6,50.6,204.5,5.67,1.13,34.0,10.3,6.1,NPK 12:32:16 Complex
+Soybean,Clay Loam,135.3,47.0,146.8,5.57,0.75,10.0,35.2,5.4,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,208.4,20.1,237.2,8.27,0.88,10.0,47.7,26.7,DAP + Zinc Sulphate
+Mustard,Black Regur,127.8,15.2,300.5,8.12,0.77,14.2,30.3,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,238.6,12.6,316.0,6.46,0.79,10.0,43.4,5.0,DAP + Zinc Sulphate
+Wheat,Black Regur,166.3,33.1,294.3,6.35,0.45,44.5,25.6,5.0,Split Urea (Neem Coated)
+Wheat,Sandy Loam,173.7,30.1,121.3,6.94,0.84,40.6,28.2,17.2,Split Urea (Neem Coated)
+Chickpea,Black Regur,79.3,14.3,372.8,5.98,0.5,10.0,63.7,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,169.9,43.1,202.6,5.9,0.78,35.6,16.9,6.3,NPK 12:32:16 Complex
+Rice,Sandy Loam,144.2,48.8,200.3,8.19,0.99,47.6,11.9,6.6,Split Urea (Neem Coated)
+Mustard,Sandy Loam,129.8,31.2,195.9,5.85,0.85,18.9,16.3,5.0,NPK 12:32:16 Complex
+Potato,Clay Loam,172.4,56.0,182.9,5.88,1.11,58.9,38.3,58.9,Split Urea (Neem Coated)
+Chickpea,Black Regur,92.6,40.0,206.6,6.86,0.85,10.0,41.3,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,51.0,34.4,120.6,7.66,0.72,10.0,46.2,8.9,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,126.7,9.3,174.3,7.82,0.39,10.0,68.0,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,127.7,60.7,150.0,6.72,0.78,43.0,12.4,38.3,Split Urea (Neem Coated)
+Cotton,Black Regur,163.2,53.8,330.3,7.5,0.85,63.6,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Black Regur,71.0,44.9,155.9,7.45,0.97,131.7,37.0,45.9,Split Urea (Neem Coated)
+Maize,Clay Loam,122.5,32.6,106.1,6.18,0.66,44.0,15.1,10.9,Split Urea (Neem Coated)
+Potato,Red Lateritic,168.3,11.0,354.2,6.1,0.89,45.2,77.4,36.1,DAP + Zinc Sulphate
+Wheat,Red Lateritic,206.5,41.0,203.1,6.94,0.86,31.4,18.7,6.3,NPK 12:32:16 Complex
+Rice,Sandy Loam,46.3,49.6,124.6,6.78,1.08,86.2,11.2,16.7,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,157.1,32.7,165.4,7.85,0.81,93.8,47.7,44.6,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,49.4,14.1,197.7,8.0,0.83,83.8,42.1,7.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,108.0,25.7,296.1,5.62,0.39,25.6,21.1,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,210.8,15.4,300.6,6.97,0.57,10.0,51.8,18.3,DAP + Zinc Sulphate
+Maize,Alluvial Loam,222.3,25.9,326.4,5.89,0.9,10.0,21.0,5.0,DAP + Zinc Sulphate
+Tomato,Clay Loam,141.3,58.9,286.0,7.97,0.35,37.1,14.0,20.2,NPK 12:32:16 Complex
+Cotton,Black Regur,61.8,64.5,192.1,7.82,0.66,106.3,10.0,16.1,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,189.9,11.4,239.7,7.5,0.98,27.9,44.4,5.0,DAP + Zinc Sulphate
+Wheat,Alluvial Loam,202.8,13.3,280.7,6.26,0.88,23.5,42.8,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,230.1,31.2,132.8,8.44,1.19,10.0,16.3,7.3,DAP + Zinc Sulphate
+Chickpea,Black Regur,102.0,40.8,172.0,7.51,0.6,10.0,40.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,52.2,26.2,137.7,7.0,0.74,132.6,53.3,48.3,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,56.3,31.4,127.1,6.62,0.82,10.0,48.8,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,183.4,64.0,366.2,7.11,0.75,10.0,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Clay Loam,167.9,40.0,356.9,7.19,0.96,10.0,10.0,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,184.7,46.4,344.5,5.99,1.01,30.9,14.0,5.0,NPK 12:32:16 Complex
+Tomato,Black Regur,192.5,10.8,338.7,6.7,1.15,10.0,55.8,13.2,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,222.1,22.0,369.9,5.9,1.16,29.8,35.2,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,99.0,52.1,148.2,7.83,1.18,86.2,41.7,63.6,Split Urea (Neem Coated)
+Soybean,Red Lateritic,109.0,34.0,208.6,8.26,0.75,10.0,46.5,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,99.0,56.8,221.7,6.86,0.54,10.0,26.7,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,222.7,35.4,316.1,7.87,1.02,69.0,45.3,24.5,Split Urea (Neem Coated)
+Cotton,Red Lateritic,60.6,53.3,203.0,7.38,1.01,103.6,10.0,14.6,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,46.4,40.6,247.7,6.37,0.46,94.0,19.0,5.0,Split Urea (Neem Coated)
+Tomato,Black Regur,155.8,22.1,193.8,6.28,0.41,18.9,46.0,32.5,DAP + Zinc Sulphate
+Tomato,Black Regur,124.7,36.8,368.1,6.91,1.0,36.0,33.2,9.3,NPK 12:32:16 Complex
+Maize,Red Lateritic,143.1,12.1,182.7,6.59,0.81,28.9,33.0,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,112.3,56.4,238.6,6.28,0.54,10.0,27.0,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,110.1,14.7,124.2,7.81,0.56,21.0,30.7,8.4,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,51.2,57.5,287.5,7.04,0.32,10.0,26.1,5.0,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,228.0,21.6,178.6,7.45,0.51,27.3,35.6,17.9,DAP + Zinc Sulphate
+Potato,Clay Loam,189.9,45.4,160.8,6.48,0.32,48.4,47.5,61.9,Split Urea (Neem Coated)
+Potato,Black Regur,239.4,49.5,117.1,7.07,0.37,30.4,43.9,67.7,MOP Potash Balanced
+Wheat,Alluvial Loam,76.5,25.6,125.7,8.42,0.76,77.1,32.1,16.6,Split Urea (Neem Coated)
+Mustard,Red Lateritic,92.5,36.3,246.1,7.25,0.99,35.2,11.9,5.0,NPK 12:32:16 Complex
+Potato,Alluvial Loam,137.5,29.1,88.5,5.58,0.63,63.4,61.7,71.5,Split Urea (Neem Coated)
+Rice,Sandy Loam,226.5,29.9,145.2,6.83,0.46,10.0,28.3,14.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,66.0,27.1,125.9,8.37,0.75,10.0,52.5,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,91.1,36.0,224.4,7.36,1.01,48.9,33.9,28.4,Split Urea (Neem Coated)
+Cotton,Sandy Loam,160.9,37.5,228.4,6.49,0.93,59.0,21.7,11.2,Split Urea (Neem Coated)
+Cotton,Clay Loam,157.8,32.8,330.3,6.67,1.02,58.6,25.8,5.0,Split Urea (Neem Coated)
+Tomato,Red Lateritic,112.4,23.3,339.9,7.92,0.79,36.2,45.0,13.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,222.9,33.8,295.5,7.21,0.77,33.4,25.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Black Regur,188.5,9.0,205.8,8.25,0.39,73.4,68.3,39.2,Split Urea (Neem Coated)
+Soybean,Clay Loam,102.7,35.5,165.2,8.06,0.79,10.0,45.2,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,112.2,26.9,147.2,8.38,0.36,72.5,63.6,63.7,Split Urea (Neem Coated)
+Potato,Clay Loam,228.2,21.0,317.9,6.14,0.57,25.1,68.7,40.9,DAP + Zinc Sulphate
+Potato,Red Lateritic,219.3,58.2,264.9,6.77,0.39,41.3,36.3,48.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,112.2,10.9,113.8,5.56,0.32,67.1,77.5,68.2,DAP + Zinc Sulphate
+Rice,Black Regur,139.7,32.2,278.9,7.81,0.62,43.7,26.3,5.0,Split Urea (Neem Coated)
+Tomato,Sandy Loam,51.3,8.3,116.2,5.88,0.59,55.1,58.0,42.8,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,214.9,52.8,138.0,7.34,0.3,10.0,19.3,39.9,MOP Potash Balanced
+Cotton,Sandy Loam,206.9,29.8,259.4,6.01,0.8,38.4,28.4,7.1,NPK 12:32:16 Complex
+Soybean,Black Regur,181.8,60.8,229.4,7.53,1.01,10.0,23.2,5.0,DAP + Zinc Sulphate
+Maize,Black Regur,119.0,37.4,263.3,6.45,0.38,47.0,11.0,5.0,Split Urea (Neem Coated)
+Mustard,Black Regur,173.7,51.3,141.9,6.98,1.07,10.0,10.0,6.1,NPK 12:32:16 Complex
+Rice,Sandy Loam,105.0,42.3,299.9,6.43,0.89,60.7,17.6,5.0,Split Urea (Neem Coated)
+Chickpea,Clay Loam,93.5,52.6,114.5,7.62,0.64,10.0,30.3,5.0,DAP + Zinc Sulphate
+Chickpea,Red Lateritic,233.8,40.8,371.7,7.79,0.65,10.0,40.6,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,150.6,8.4,252.4,8.3,1.05,10.0,68.8,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,228.3,12.2,186.4,8.06,0.51,22.1,76.3,58.5,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,106.3,44.9,97.6,7.52,1.11,117.8,37.0,53.7,Split Urea (Neem Coated)
+Maize,Red Lateritic,57.7,59.7,317.1,8.31,0.38,75.2,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Sandy Loam,130.6,64.8,223.1,7.24,0.55,43.2,10.0,28.6,Split Urea (Neem Coated)
+Mustard,Sandy Loam,125.9,60.0,265.8,7.92,0.96,26.8,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,233.7,49.0,96.4,6.31,0.54,69.4,33.5,53.8,Split Urea (Neem Coated)
+Rice,Alluvial Loam,40.2,18.6,276.2,6.53,0.64,78.0,38.2,5.0,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,114.0,56.1,333.8,8.01,0.66,10.0,27.3,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,185.0,41.5,223.0,8.42,0.38,49.0,50.9,53.6,Split Urea (Neem Coated)
+Rice,Red Lateritic,40.5,37.6,264.3,7.88,1.02,84.4,21.7,5.0,Split Urea (Neem Coated)
+Maize,Black Regur,88.7,42.9,169.1,8.12,0.98,60.7,10.0,5.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,102.1,35.7,87.0,6.75,0.39,53.0,12.4,13.4,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,84.1,55.7,218.9,8.01,1.01,130.2,27.7,37.5,Split Urea (Neem Coated)
+Mustard,Black Regur,195.2,57.8,129.5,7.29,1.16,10.0,10.0,7.7,NPK 12:32:16 Complex
+Tomato,Alluvial Loam,167.0,55.4,124.7,6.11,1.14,25.8,17.0,41.7,MOP Potash Balanced
+Sugarcane,Alluvial Loam,110.3,11.2,113.5,8.03,0.69,104.8,66.3,51.5,Split Urea (Neem Coated)
+Wheat,Sandy Loam,160.8,20.6,334.2,6.88,0.6,42.4,36.4,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,63.7,34.2,332.0,7.42,0.91,74.1,24.6,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,126.1,19.6,258.3,8.44,0.67,64.6,69.9,48.9,DAP + Zinc Sulphate
+Rice,Clay Loam,226.0,30.1,94.6,6.88,0.85,10.0,28.2,20.7,DAP + Zinc Sulphate
+Wheat,Black Regur,69.9,57.2,233.4,5.56,0.9,90.4,10.0,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,143.4,48.6,215.7,7.19,0.76,67.7,44.7,54.6,Split Urea (Neem Coated)
+Tomato,Black Regur,91.2,20.4,184.5,6.71,0.78,43.6,47.5,33.7,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,177.3,64.8,214.1,6.26,0.75,96.8,19.7,38.1,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,214.5,61.9,251.0,6.82,1.11,46.3,10.0,8.2,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,202.9,41.7,186.5,5.85,1.19,10.0,39.8,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,130.5,16.6,277.4,5.7,0.59,63.8,39.9,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,233.4,23.8,240.7,8.22,0.46,24.0,66.3,51.2,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,101.7,42.7,329.0,7.89,1.03,10.0,39.0,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,55.9,53.2,96.8,6.34,0.88,105.4,10.0,28.8,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,114.7,40.5,271.6,6.91,0.78,78.1,19.1,5.5,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,216.4,55.3,98.8,5.82,0.95,43.3,10.0,28.5,Split Urea (Neem Coated)
+Cotton,Sandy Loam,201.4,53.8,87.9,8.21,0.83,48.7,10.0,29.9,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,186.7,24.0,158.5,7.81,0.91,10.0,55.2,5.0,DAP + Zinc Sulphate
+Tomato,Alluvial Loam,105.7,42.5,146.8,6.26,0.44,45.4,28.3,38.8,Split Urea (Neem Coated)
+Tomato,Clay Loam,217.3,65.0,291.0,8.43,0.86,10.0,10.0,19.5,NPK 12:32:16 Complex
+Maize,Sandy Loam,197.9,38.5,96.3,7.37,1.06,16.5,10.0,12.2,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,168.1,55.1,236.8,8.18,1.05,97.1,28.2,35.1,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,125.8,44.4,341.3,6.67,0.39,10.0,37.5,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,207.1,23.9,371.1,6.73,1.08,34.4,66.2,33.9,DAP + Zinc Sulphate
+Rice,Clay Loam,233.8,27.5,235.7,8.44,0.8,10.0,30.4,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,91.0,44.9,225.4,7.55,1.18,10.0,37.0,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,75.3,64.9,90.0,5.68,0.38,46.6,10.0,13.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,213.0,13.3,184.3,7.18,0.69,19.5,42.8,8.8,DAP + Zinc Sulphate
+Maize,Red Lateritic,162.2,44.1,220.5,6.29,1.16,32.4,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Red Lateritic,158.0,56.0,339.2,8.3,0.46,10.0,27.4,5.0,DAP + Zinc Sulphate
+Mustard,Alluvial Loam,159.8,10.2,83.0,8.08,1.03,10.0,34.6,13.9,DAP + Zinc Sulphate
+Cotton,Black Regur,92.5,43.5,120.2,5.93,1.13,87.8,16.5,25.6,Split Urea (Neem Coated)
+Potato,Sandy Loam,51.0,26.7,171.8,7.54,0.68,96.4,63.7,60.4,Split Urea (Neem Coated)
+Maize,Black Regur,163.4,50.4,302.4,6.29,0.92,33.9,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Clay Loam,197.6,13.2,236.8,5.51,0.41,10.0,64.6,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,121.1,23.8,109.9,8.4,1.08,19.8,22.8,10.3,DAP + Zinc Sulphate
+Wheat,Black Regur,164.5,51.5,188.8,6.61,1.18,51.4,10.0,8.2,Split Urea (Neem Coated)
+Maize,Black Regur,134.1,8.8,307.4,7.33,0.52,31.3,35.8,5.0,DAP + Zinc Sulphate
+Potato,Red Lateritic,219.4,54.5,124.9,8.44,0.5,40.0,39.6,66.7,MOP Potash Balanced
+Chickpea,Black Regur,90.2,16.3,301.6,7.21,1.02,10.0,61.9,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,217.2,26.6,211.2,7.16,0.74,31.3,63.8,55.2,DAP + Zinc Sulphate
+Cotton,Red Lateritic,43.8,32.0,157.7,7.57,0.99,102.9,26.5,20.6,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,239.8,25.4,235.6,7.34,0.56,10.0,43.1,26.9,DAP + Zinc Sulphate
+Potato,Clay Loam,71.8,29.6,189.6,6.54,0.7,89.3,61.2,58.1,Split Urea (Neem Coated)
+Maize,Clay Loam,77.9,49.8,215.5,7.8,1.09,67.3,10.0,5.0,Split Urea (Neem Coated)
+Maize,Red Lateritic,213.8,62.2,297.2,6.64,0.77,14.2,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Red Lateritic,147.7,55.1,120.8,5.93,0.48,18.3,10.0,8.9,NPK 12:32:16 Complex
+Wheat,Sandy Loam,238.7,29.3,86.0,5.75,0.48,14.9,28.9,21.9,DAP + Zinc Sulphate
+Maize,Sandy Loam,189.5,64.3,144.5,6.4,0.39,23.7,10.0,5.7,NPK 12:32:16 Complex
+Chickpea,Sandy Loam,135.4,27.2,193.9,7.59,0.76,10.0,52.4,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,187.2,13.1,376.2,8.46,0.83,75.3,64.7,16.5,Split Urea (Neem Coated)
+Potato,Alluvial Loam,145.0,57.1,287.1,8.05,0.52,70.0,37.3,45.1,Split Urea (Neem Coated)
+Maize,Clay Loam,227.0,39.4,378.9,7.89,0.93,10.0,10.0,5.0,DAP + Zinc Sulphate
+Cotton,Clay Loam,118.1,55.2,215.9,7.74,1.06,81.8,10.0,12.9,Split Urea (Neem Coated)
+Potato,Sandy Loam,94.0,24.4,114.1,7.38,1.13,78.8,65.7,68.1,Split Urea (Neem Coated)
+Maize,Black Regur,70.6,38.9,343.0,6.12,0.55,66.4,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,175.3,53.6,119.5,7.2,0.96,93.8,29.5,50.7,Split Urea (Neem Coated)
+Wheat,Black Regur,143.6,33.5,247.7,8.15,0.64,53.5,25.2,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,158.5,45.2,261.6,6.29,0.37,97.5,36.8,31.8,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,79.9,49.1,264.9,5.71,0.43,129.6,33.4,31.3,Split Urea (Neem Coated)
+Soybean,Clay Loam,240.0,29.5,171.8,6.06,0.76,10.0,50.4,5.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,190.0,22.0,275.3,7.4,0.62,40.4,67.8,46.6,DAP + Zinc Sulphate
+Soybean,Red Lateritic,170.3,45.1,204.6,6.03,0.86,10.0,36.9,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,162.7,12.2,144.3,6.0,0.78,10.0,65.5,5.8,DAP + Zinc Sulphate
+Soybean,Clay Loam,175.0,54.9,283.2,8.33,1.1,10.0,28.3,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,192.5,37.9,107.5,8.19,0.71,10.0,32.3,44.0,MOP Potash Balanced
+Chickpea,Clay Loam,188.9,60.1,141.3,6.7,0.52,10.0,23.8,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,45.9,45.1,374.5,7.49,0.56,141.5,36.9,16.7,Split Urea (Neem Coated)
+Chickpea,Black Regur,200.4,35.8,313.9,8.02,0.46,10.0,45.0,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,210.7,20.1,247.7,8.36,1.0,31.7,69.5,50.3,DAP + Zinc Sulphate
+Wheat,Clay Loam,55.2,60.6,96.4,6.41,0.76,97.3,10.0,20.5,Split Urea (Neem Coated)
+Chickpea,Black Regur,49.3,41.7,220.7,8.41,0.6,10.0,39.8,5.0,DAP + Zinc Sulphate
+Sugarcane,Clay Loam,183.2,22.9,115.2,5.86,0.98,80.2,56.2,51.3,Split Urea (Neem Coated)
+Rice,Alluvial Loam,202.1,56.3,221.8,6.89,0.84,27.5,10.0,5.0,NPK 12:32:16 Complex
+Cotton,Alluvial Loam,64.6,63.0,187.0,7.58,0.58,105.2,10.0,16.7,Split Urea (Neem Coated)
+Rice,Black Regur,51.5,47.1,112.1,5.72,0.78,83.3,13.4,18.4,Split Urea (Neem Coated)
+Potato,Alluvial Loam,101.7,48.1,340.6,6.98,0.58,83.9,45.1,37.9,Split Urea (Neem Coated)
+Tomato,Clay Loam,58.4,12.5,175.2,7.94,0.32,53.7,54.3,35.0,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,211.4,14.6,183.2,8.1,0.45,31.4,41.7,17.2,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,150.6,40.3,82.9,6.53,0.39,98.9,41.0,55.6,Split Urea (Neem Coated)
+Rice,Alluvial Loam,234.7,55.1,217.9,7.48,0.46,14.4,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,85.1,57.4,131.0,6.08,0.89,42.8,10.0,7.5,Split Urea (Neem Coated)
+Wheat,Black Regur,172.5,62.4,133.0,8.05,0.89,52.0,10.0,15.6,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,206.5,25.8,102.4,8.25,0.55,10.0,42.8,44.7,MOP Potash Balanced
+Soybean,Sandy Loam,56.5,48.2,324.8,5.61,0.72,10.0,34.2,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,71.3,44.1,164.7,5.65,0.94,67.9,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,126.8,56.0,141.4,7.56,1.1,41.8,16.5,39.5,Split Urea (Neem Coated)
+Cotton,Black Regur,232.1,28.7,113.6,6.71,0.47,28.1,29.4,26.5,DAP + Zinc Sulphate
+Maize,Red Lateritic,234.8,10.0,332.9,7.23,0.64,10.0,34.8,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,88.9,58.1,189.0,5.72,0.96,83.3,10.0,8.1,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,81.4,45.5,88.8,6.69,0.48,42.7,10.0,13.2,Split Urea (Neem Coated)
+Soybean,Black Regur,98.7,8.0,172.8,7.41,0.48,10.0,69.1,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,123.0,21.6,249.0,6.17,0.65,10.0,57.3,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,136.1,19.4,261.5,7.26,1.09,25.7,48.3,23.5,DAP + Zinc Sulphate
+Rice,Alluvial Loam,45.5,39.5,110.6,5.92,0.64,83.1,20.0,18.6,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,58.5,25.7,235.9,7.45,0.54,44.9,21.1,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,233.0,52.5,147.5,6.27,0.87,10.0,10.0,5.3,NPK 12:32:16 Complex
+Mustard,Red Lateritic,142.2,46.5,295.6,6.37,1.07,19.3,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Black Regur,51.7,36.6,308.8,8.24,0.32,10.0,44.3,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,40.4,29.4,184.4,7.3,0.79,103.4,28.8,17.1,Split Urea (Neem Coated)
+Soybean,Alluvial Loam,121.2,8.9,258.2,8.05,0.99,10.0,68.3,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,233.8,14.8,374.9,7.24,0.45,10.0,41.5,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,166.8,53.7,164.2,5.78,0.65,60.3,40.3,61.4,Split Urea (Neem Coated)
+Maize,Black Regur,174.7,59.7,268.2,6.35,0.48,29.5,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Sandy Loam,109.2,38.7,303.0,7.41,1.05,10.0,42.4,5.0,DAP + Zinc Sulphate
+Potato,Black Regur,42.0,58.6,157.1,8.41,0.8,110.8,36.0,62.4,Split Urea (Neem Coated)
+Potato,Alluvial Loam,218.0,55.2,195.0,7.52,0.5,40.7,39.0,57.3,Split Urea (Neem Coated)
+Potato,Sandy Loam,190.4,13.0,167.4,5.93,1.17,37.2,75.7,61.0,DAP + Zinc Sulphate
+Potato,Alluvial Loam,177.2,41.2,211.4,6.39,0.5,52.0,51.1,55.1,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,156.1,28.2,367.2,8.38,0.34,10.0,51.6,5.0,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,236.0,49.0,185.0,6.91,1.18,10.0,33.5,5.0,DAP + Zinc Sulphate
+Sugarcane,Red Lateritic,67.0,33.6,121.7,6.26,0.67,129.3,46.9,50.4,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,230.8,42.8,249.6,8.32,0.53,22.6,17.1,5.0,NPK 12:32:16 Complex
+Rice,Clay Loam,63.3,48.5,279.5,6.83,0.44,79.2,12.2,5.0,Split Urea (Neem Coated)
+Cotton,Sandy Loam,41.2,24.8,227.6,7.85,0.31,101.5,32.8,11.3,Split Urea (Neem Coated)
+Maize,Red Lateritic,74.0,26.4,354.7,7.48,0.37,60.8,20.5,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,130.0,18.6,136.0,5.58,0.82,10.0,59.9,5.0,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,138.4,23.2,89.5,6.67,1.18,10.0,55.9,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,47.2,52.0,160.4,5.99,0.4,106.5,41.7,61.9,Split Urea (Neem Coated)
+Cotton,Clay Loam,80.8,51.0,263.3,6.72,0.87,94.9,10.0,6.6,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,192.2,62.7,346.8,7.13,1.02,44.4,10.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,126.8,14.2,323.7,7.84,1.15,99.4,63.7,23.5,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,95.6,31.3,362.7,6.94,0.53,10.0,48.9,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,116.5,26.9,94.3,6.28,0.62,35.9,41.8,45.8,MOP Potash Balanced
+Wheat,Red Lateritic,89.6,64.1,369.5,7.24,0.44,84.5,10.0,5.0,Split Urea (Neem Coated)
+Potato,Alluvial Loam,216.1,41.0,131.2,6.8,0.31,36.7,51.3,65.8,MOP Potash Balanced
+Tomato,Red Lateritic,165.7,51.6,112.1,6.22,0.91,25.0,20.3,43.4,MOP Potash Balanced
+Maize,Red Lateritic,176.7,16.0,153.8,8.32,0.91,17.1,29.6,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,107.5,40.2,241.0,8.39,1.07,43.9,30.3,26.2,Split Urea (Neem Coated)
+Soybean,Clay Loam,47.1,27.9,239.0,6.12,0.84,10.0,51.8,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,79.0,63.3,226.7,8.17,0.96,77.8,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Black Regur,202.4,20.9,350.4,6.37,0.39,10.0,47.0,11.6,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,132.8,30.9,122.7,7.57,0.36,102.7,49.2,50.3,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,105.7,56.1,344.3,7.24,0.33,76.0,10.0,5.0,Split Urea (Neem Coated)
+Mustard,Sandy Loam,98.6,59.9,172.0,8.31,0.55,37.5,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Clay Loam,228.7,64.7,346.9,6.24,0.71,76.7,19.8,20.4,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,81.5,44.7,153.7,7.82,1.13,127.5,37.2,46.2,Split Urea (Neem Coated)
+Mustard,Red Lateritic,122.6,32.2,174.3,8.24,0.86,22.0,15.5,5.0,NPK 12:32:16 Complex
+Soybean,Sandy Loam,76.0,31.3,129.2,6.93,0.45,10.0,48.9,7.8,DAP + Zinc Sulphate
+Chickpea,Black Regur,137.8,10.4,282.9,7.4,0.37,10.0,67.0,5.0,DAP + Zinc Sulphate
+Rice,Red Lateritic,121.8,51.6,285.0,8.43,1.13,57.3,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,177.0,25.6,86.3,6.84,0.77,10.0,53.8,5.2,DAP + Zinc Sulphate
+Cotton,Black Regur,229.9,52.5,213.2,7.93,0.79,37.1,10.0,13.2,NPK 12:32:16 Complex
+Sugarcane,Alluvial Loam,226.5,54.2,268.2,7.25,0.72,73.9,29.0,30.9,Split Urea (Neem Coated)
+Rice,Black Regur,176.1,18.6,151.3,7.75,0.7,24.8,38.2,13.2,DAP + Zinc Sulphate
+Cotton,Sandy Loam,89.9,10.6,145.4,5.73,1.2,77.6,45.1,22.3,Split Urea (Neem Coated)
+Cotton,Red Lateritic,55.0,27.6,282.2,7.65,1.02,97.1,30.3,5.0,Split Urea (Neem Coated)
+Tomato,Black Regur,122.8,11.7,302.1,6.36,0.64,28.3,55.0,18.1,DAP + Zinc Sulphate
+Maize,Alluvial Loam,129.0,22.6,241.6,8.16,0.98,38.0,23.8,5.0,NPK 12:32:16 Complex
+Mustard,Red Lateritic,64.2,55.0,177.1,6.55,1.14,51.0,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,220.5,64.4,99.3,5.79,0.66,10.0,20.1,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,158.5,31.1,149.4,7.41,0.32,20.9,38.2,38.4,MOP Potash Balanced
+Tomato,Clay Loam,217.6,23.3,244.6,5.64,0.57,10.0,45.0,25.7,DAP + Zinc Sulphate
+Mustard,Sandy Loam,141.4,64.7,111.2,6.62,0.69,20.8,10.0,10.2,NPK 12:32:16 Complex
+Tomato,Clay Loam,233.6,58.7,317.7,6.29,0.36,10.0,14.2,16.0,NPK 12:32:16 Complex
+Soybean,Alluvial Loam,190.2,46.2,164.4,8.34,1.03,10.0,35.9,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,145.4,17.7,99.7,6.12,0.92,29.9,28.1,11.7,NPK 12:32:16 Complex
+Rice,Clay Loam,131.5,51.6,210.2,6.1,0.54,53.5,10.0,5.3,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,143.3,18.8,353.3,7.79,0.83,59.5,38.0,5.0,Split Urea (Neem Coated)
+Cotton,Clay Loam,188.9,8.4,181.8,7.45,0.3,38.1,47.0,17.4,DAP + Zinc Sulphate
+Tomato,Black Regur,95.4,14.4,104.3,6.36,0.67,39.9,52.7,44.4,DAP + Zinc Sulphate
+Soybean,Black Regur,185.1,19.3,287.1,6.72,1.03,10.0,59.3,5.0,DAP + Zinc Sulphate
+Cotton,Black Regur,225.2,35.1,119.4,7.6,0.87,33.0,23.8,25.7,MOP Potash Balanced
+Tomato,Alluvial Loam,151.7,28.7,349.4,7.48,0.47,22.7,40.3,11.7,DAP + Zinc Sulphate
+Tomato,Clay Loam,89.8,61.2,106.5,6.69,0.36,58.0,12.0,44.1,Split Urea (Neem Coated)
+Rice,Black Regur,88.9,25.7,354.2,6.92,0.77,61.4,32.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,70.9,36.1,259.4,5.54,0.44,128.7,44.7,32.1,Split Urea (Neem Coated)
+Chickpea,Clay Loam,141.8,8.2,288.5,6.24,0.38,10.0,69.0,5.0,DAP + Zinc Sulphate
+Potato,Clay Loam,54.9,38.3,280.8,6.83,0.87,98.8,53.7,45.9,Split Urea (Neem Coated)
+Soybean,Clay Loam,105.8,44.1,147.0,7.77,0.35,10.0,37.7,5.4,DAP + Zinc Sulphate
+Tomato,Black Regur,233.1,53.2,316.1,7.44,0.77,10.0,19.0,16.2,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,154.4,22.2,175.0,7.98,0.68,10.0,56.8,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,88.6,63.1,132.3,6.82,0.87,59.1,10.3,40.7,Split Urea (Neem Coated)
+Tomato,Sandy Loam,59.8,46.7,182.2,7.9,0.9,64.8,24.6,34.0,Split Urea (Neem Coated)
+Maize,Black Regur,238.7,54.6,196.6,7.16,0.36,10.0,10.0,5.0,NPK 12:32:16 Complex
+Soybean,Red Lateritic,117.1,10.1,105.4,7.61,0.37,10.0,67.3,10.9,DAP + Zinc Sulphate
+Maize,Clay Loam,217.5,8.0,168.5,5.82,1.19,10.0,36.5,5.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,237.4,19.5,205.9,6.35,0.7,10.0,26.5,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,120.5,20.2,214.6,7.44,0.8,32.0,47.7,29.7,DAP + Zinc Sulphate
+Wheat,Sandy Loam,225.3,53.8,119.0,6.86,1.17,28.4,10.0,17.5,NPK 12:32:16 Complex
+Rice,Sandy Loam,234.8,18.7,342.8,7.56,0.88,10.0,38.1,5.0,DAP + Zinc Sulphate
+Cotton,Sandy Loam,151.5,57.0,94.8,6.58,0.73,69.3,10.0,29.0,Split Urea (Neem Coated)
+Wheat,Sandy Loam,158.7,22.3,145.8,8.16,0.66,43.8,35.0,13.9,Split Urea (Neem Coated)
+Cotton,Black Regur,135.1,55.6,191.5,7.84,1.12,75.2,10.0,16.1,Split Urea (Neem Coated)
+Tomato,Red Lateritic,110.7,27.5,215.9,7.64,1.1,38.3,41.3,29.5,DAP + Zinc Sulphate
+Mustard,Clay Loam,67.6,42.7,369.4,7.02,0.67,47.2,10.0,5.0,Split Urea (Neem Coated)
+Tomato,Clay Loam,222.4,18.9,167.5,7.12,0.81,10.0,48.8,36.0,DAP + Zinc Sulphate
+Maize,Black Regur,191.7,58.5,193.2,6.35,0.54,22.8,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Alluvial Loam,76.5,55.5,197.0,7.42,0.44,46.2,10.0,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,74.6,27.0,367.9,7.17,1.12,87.3,63.5,34.3,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,184.7,62.9,211.4,6.73,0.99,93.3,21.4,38.5,Split Urea (Neem Coated)
+Soybean,Red Lateritic,40.5,55.5,232.4,7.96,1.16,10.0,27.8,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,138.2,13.1,127.0,7.33,1.04,10.0,64.7,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,186.2,26.2,337.6,5.55,0.67,23.5,31.6,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,205.1,34.4,374.2,8.1,1.06,29.8,24.4,5.0,NPK 12:32:16 Complex
+Tomato,Black Regur,164.9,19.8,104.0,5.88,0.57,14.5,48.0,44.5,DAP + Zinc Sulphate
+Maize,Sandy Loam,198.9,41.5,134.5,8.21,0.36,17.1,10.0,7.1,NPK 12:32:16 Complex
+Sugarcane,Red Lateritic,129.7,28.8,222.4,7.06,0.49,103.2,51.0,37.0,Split Urea (Neem Coated)
+Maize,Clay Loam,54.2,8.6,352.0,6.99,0.97,62.5,36.0,5.0,Split Urea (Neem Coated)
+Rice,Red Lateritic,118.9,57.7,181.2,6.44,0.49,60.5,10.0,9.2,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,50.2,31.1,313.6,7.74,1.14,10.0,49.0,5.0,DAP + Zinc Sulphate
+Wheat,Sandy Loam,215.7,53.8,338.4,7.48,0.47,32.2,10.0,5.0,NPK 12:32:16 Complex
+Wheat,Sandy Loam,115.7,9.2,287.9,6.38,0.92,56.2,46.3,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,132.6,41.6,233.1,6.38,0.51,106.4,39.9,35.6,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,235.0,26.7,179.7,7.88,0.54,61.3,52.9,42.7,Split Urea (Neem Coated)
+Rice,Sandy Loam,151.3,23.3,379.9,6.75,0.64,36.1,34.1,5.0,NPK 12:32:16 Complex
+Cotton,Clay Loam,149.3,54.3,173.1,7.61,1.16,69.2,10.0,18.6,Split Urea (Neem Coated)
+Soybean,Sandy Loam,115.4,10.9,291.3,8.06,0.95,10.0,66.6,5.0,DAP + Zinc Sulphate
+Wheat,Clay Loam,133.3,26.3,246.8,6.37,0.56,55.1,31.5,5.0,Split Urea (Neem Coated)
+Rice,Black Regur,123.8,20.7,171.7,6.83,0.6,46.0,36.3,10.4,Split Urea (Neem Coated)
+Maize,Sandy Loam,64.2,40.1,152.3,6.85,0.35,69.3,10.0,5.0,Split Urea (Neem Coated)
+Maize,Black Regur,171.0,58.9,142.5,5.57,0.88,30.9,10.0,6.0,NPK 12:32:16 Complex
+Chickpea,Red Lateritic,83.1,61.6,286.0,5.75,0.48,10.0,22.5,5.0,DAP + Zinc Sulphate
+Mustard,Red Lateritic,206.3,42.6,259.0,8.26,0.73,10.0,10.0,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,117.5,56.6,306.7,6.96,1.14,30.1,10.0,5.0,NPK 12:32:16 Complex
+Rice,Sandy Loam,168.1,61.6,184.5,8.09,1.18,42.6,10.0,8.7,Split Urea (Neem Coated)
+Potato,Alluvial Loam,169.5,29.1,369.5,5.66,0.39,50.8,61.7,34.1,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,131.1,62.4,379.0,7.32,1.02,114.1,21.8,16.1,Split Urea (Neem Coated)
+Cotton,Black Regur,183.9,15.6,341.1,6.65,0.5,42.5,40.8,5.0,Split Urea (Neem Coated)
+Wheat,Clay Loam,124.3,25.9,313.8,7.25,0.41,58.5,31.8,5.0,Split Urea (Neem Coated)
+Maize,Alluvial Loam,207.5,25.4,159.2,5.57,0.45,10.0,21.4,5.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,220.4,19.6,357.7,7.08,0.64,10.0,59.0,5.0,DAP + Zinc Sulphate
+Soybean,Sandy Loam,120.7,23.9,116.3,7.53,0.65,10.0,55.3,9.5,DAP + Zinc Sulphate
+Chickpea,Clay Loam,144.2,55.9,261.3,7.25,0.84,10.0,27.5,5.0,DAP + Zinc Sulphate
+Rice,Clay Loam,193.2,37.5,149.6,8.24,1.19,24.6,21.7,13.4,NPK 12:32:16 Complex
+Chickpea,Alluvial Loam,147.8,21.6,255.2,7.74,1.11,10.0,57.3,5.0,DAP + Zinc Sulphate
+Chickpea,Clay Loam,50.6,24.0,167.3,6.9,0.47,10.0,55.2,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,67.5,25.1,183.1,5.95,0.8,69.6,32.5,8.9,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,160.3,22.4,328.2,5.99,0.73,43.2,34.9,5.0,Split Urea (Neem Coated)
+Rice,Sandy Loam,103.5,13.2,264.1,7.33,1.14,51.4,42.9,5.0,Split Urea (Neem Coated)
+Sugarcane,Alluvial Loam,87.8,39.1,374.5,8.32,0.33,123.1,42.1,16.7,Split Urea (Neem Coated)
+Mustard,Sandy Loam,144.6,42.1,286.8,7.53,0.32,16.8,10.0,5.0,NPK 12:32:16 Complex
+Mustard,Clay Loam,139.0,34.2,347.2,6.91,0.33,16.3,13.7,5.0,NPK 12:32:16 Complex
+Cotton,Clay Loam,170.8,43.6,331.4,7.3,0.46,57.2,16.4,5.0,Split Urea (Neem Coated)
+Mustard,Sandy Loam,233.7,33.8,263.6,8.49,1.19,10.0,14.1,5.0,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,202.9,13.2,374.7,7.83,0.36,10.0,64.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Black Regur,121.3,49.7,300.4,8.05,0.67,113.6,32.9,26.6,Split Urea (Neem Coated)
+Sugarcane,Black Regur,199.1,51.6,197.7,7.87,0.41,83.8,31.2,40.3,Split Urea (Neem Coated)
+Rice,Black Regur,68.5,53.6,118.9,7.55,0.85,78.9,10.0,17.5,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,45.4,22.4,199.0,7.93,0.55,134.0,56.6,40.1,Split Urea (Neem Coated)
+Potato,Sandy Loam,46.1,25.8,198.2,6.31,1.16,98.0,64.5,56.9,Split Urea (Neem Coated)
+Cotton,Red Lateritic,233.2,45.0,166.2,5.9,0.89,33.2,15.2,19.5,NPK 12:32:16 Complex
+Sugarcane,Black Regur,49.7,38.8,89.4,5.73,0.46,137.9,42.3,54.7,Split Urea (Neem Coated)
+Tomato,Clay Loam,89.9,22.5,232.3,7.1,1.13,44.8,45.7,27.4,DAP + Zinc Sulphate
+Soybean,Black Regur,204.6,28.3,337.5,6.46,0.56,10.0,51.5,5.0,DAP + Zinc Sulphate
+Mustard,Sandy Loam,144.9,43.3,259.6,5.62,0.37,17.1,10.0,5.0,NPK 12:32:16 Complex
+Maize,Black Regur,77.6,52.8,174.8,7.92,0.31,67.5,10.0,5.0,Split Urea (Neem Coated)
+Chickpea,Alluvial Loam,225.6,44.3,178.1,7.57,0.93,10.0,37.6,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,124.6,31.8,333.7,7.45,0.46,42.9,15.8,5.0,Split Urea (Neem Coated)
+Potato,Clay Loam,188.6,19.2,152.5,6.22,0.6,40.0,70.3,63.0,DAP + Zinc Sulphate
+Soybean,Red Lateritic,220.9,9.1,245.4,6.27,0.59,10.0,68.2,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,56.8,57.5,295.2,8.33,1.1,141.5,26.1,27.3,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,186.3,24.0,84.2,5.73,0.58,10.0,22.6,13.8,DAP + Zinc Sulphate
+Potato,Black Regur,173.7,44.4,190.6,5.92,0.53,54.4,48.3,57.9,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,180.2,59.2,164.4,7.74,0.41,93.8,24.6,44.7,Split Urea (Neem Coated)
+Rice,Black Regur,192.2,38.9,301.2,6.73,0.91,25.5,20.5,5.0,NPK 12:32:16 Complex
+Sugarcane,Red Lateritic,100.5,11.0,341.8,8.33,0.98,108.6,66.5,21.1,Split Urea (Neem Coated)
+Soybean,Black Regur,181.1,37.1,260.5,8.18,0.91,10.0,43.8,5.0,DAP + Zinc Sulphate
+Mustard,Black Regur,107.9,54.5,158.6,6.04,0.87,33.9,10.0,5.0,NPK 12:32:16 Complex
+Sugarcane,Black Regur,205.9,38.4,339.0,7.92,0.88,76.6,42.7,21.5,Split Urea (Neem Coated)
+Potato,Clay Loam,56.9,51.2,314.7,8.5,0.56,102.4,42.4,41.4,Split Urea (Neem Coated)
+Potato,Red Lateritic,209.4,22.0,309.4,7.82,0.72,32.8,67.8,42.1,DAP + Zinc Sulphate
+Chickpea,Clay Loam,57.6,57.6,175.2,6.62,1.09,10.0,26.0,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,50.4,27.7,360.1,7.81,0.68,70.5,19.4,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,66.2,30.9,86.9,7.38,0.69,43.7,16.6,13.4,Split Urea (Neem Coated)
+Wheat,Clay Loam,229.4,49.2,311.4,6.86,0.88,25.3,11.6,5.0,NPK 12:32:16 Complex
+Maize,Red Lateritic,87.7,8.1,115.7,7.11,0.64,49.3,36.4,9.6,Split Urea (Neem Coated)
+Cotton,Clay Loam,196.5,23.5,330.2,5.88,0.31,40.3,33.9,5.0,Split Urea (Neem Coated)
+Mustard,Red Lateritic,174.6,11.5,376.9,7.84,0.96,10.0,33.5,5.0,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,155.0,61.2,94.3,6.92,0.75,69.4,10.0,29.1,Split Urea (Neem Coated)
+Rice,Red Lateritic,176.9,41.2,334.7,6.22,0.54,32.2,18.5,5.0,NPK 12:32:16 Complex
+Cotton,Black Regur,189.2,17.1,196.5,5.58,0.6,40.9,39.5,15.5,Split Urea (Neem Coated)
+Mustard,Red Lateritic,181.4,61.5,297.4,6.65,0.43,10.0,10.0,5.0,NPK 12:32:16 Complex
+Tomato,Red Lateritic,161.4,29.2,319.0,7.7,0.7,19.1,39.8,15.8,DAP + Zinc Sulphate
+Cotton,Black Regur,158.9,42.3,311.9,6.12,0.33,61.4,17.6,5.0,Split Urea (Neem Coated)
+Mustard,Alluvial Loam,234.2,36.8,186.0,6.83,0.7,10.0,11.5,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,228.0,8.9,333.9,6.52,0.46,10.0,35.7,5.0,DAP + Zinc Sulphate
+Tomato,Black Regur,160.8,37.6,83.6,8.06,0.8,22.2,32.5,47.2,MOP Potash Balanced
+Tomato,Sandy Loam,202.7,44.0,256.6,7.8,0.77,10.0,27.0,24.1,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,206.5,51.0,182.4,6.76,0.9,80.7,31.7,42.3,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,40.7,19.9,127.0,5.8,0.78,135.0,58.8,49.7,Split Urea (Neem Coated)
+Tomato,Sandy Loam,111.3,33.8,178.5,7.88,0.8,40.3,35.8,34.5,Split Urea (Neem Coated)
+Rice,Black Regur,46.9,27.5,374.5,8.22,0.34,78.4,30.4,5.0,Split Urea (Neem Coated)
+Sugarcane,Clay Loam,222.2,58.5,374.3,6.12,0.32,77.1,25.2,16.8,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,223.9,22.3,378.7,6.07,0.45,64.1,56.7,16.2,Split Urea (Neem Coated)
+Maize,Red Lateritic,165.8,22.6,348.8,6.31,0.91,23.6,23.8,5.0,DAP + Zinc Sulphate
+Cotton,Alluvial Loam,154.8,12.6,242.4,7.37,0.91,52.9,43.4,9.3,Split Urea (Neem Coated)
+Wheat,Alluvial Loam,76.2,51.2,307.2,6.96,0.46,85.9,10.0,5.0,Split Urea (Neem Coated)
+Wheat,Sandy Loam,163.7,43.9,358.3,8.18,0.37,49.2,16.2,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,172.5,23.7,99.9,5.59,0.92,84.7,55.5,53.3,Split Urea (Neem Coated)
+Cotton,Red Lateritic,76.6,27.5,190.0,8.47,0.94,88.6,30.4,16.3,Split Urea (Neem Coated)
+Tomato,Black Regur,61.3,47.0,348.5,7.75,0.31,64.3,24.3,11.9,Split Urea (Neem Coated)
+Rice,Alluvial Loam,187.3,12.6,339.7,6.16,0.38,18.4,43.4,5.0,DAP + Zinc Sulphate
+Maize,Clay Loam,227.0,11.4,366.4,6.39,1.03,10.0,33.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Sandy Loam,182.3,23.3,364.8,7.15,0.32,80.7,55.8,18.0,Split Urea (Neem Coated)
+Chickpea,Black Regur,151.2,45.8,108.9,6.97,0.49,10.0,36.3,5.0,DAP + Zinc Sulphate
+Chickpea,Sandy Loam,207.4,22.4,164.2,5.85,0.64,10.0,56.6,5.0,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,126.0,62.7,151.1,8.22,0.78,116.2,21.6,46.5,Split Urea (Neem Coated)
+Soybean,Black Regur,54.5,15.0,115.4,5.68,0.44,10.0,63.0,9.6,DAP + Zinc Sulphate
+Soybean,Alluvial Loam,140.8,22.7,266.2,8.33,0.78,10.0,56.3,5.0,DAP + Zinc Sulphate
+Rice,Alluvial Loam,171.1,34.0,300.5,7.8,0.54,32.0,24.8,5.0,NPK 12:32:16 Complex
+Sugarcane,Red Lateritic,147.9,29.1,306.9,6.85,0.32,96.2,50.8,25.7,Split Urea (Neem Coated)
+Cotton,Black Regur,119.7,34.3,298.5,7.4,0.98,74.0,24.5,5.0,Split Urea (Neem Coated)
+Chickpea,Sandy Loam,226.3,63.7,330.0,5.56,0.82,10.0,20.7,5.0,DAP + Zinc Sulphate
+Soybean,Clay Loam,156.8,43.7,302.7,8.32,0.78,10.0,38.1,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,102.9,20.4,92.9,5.51,0.58,39.0,47.5,45.9,DAP + Zinc Sulphate
+Cotton,Black Regur,92.9,20.1,159.1,7.95,0.46,79.6,36.9,20.5,Split Urea (Neem Coated)
+Potato,Alluvial Loam,40.4,16.8,365.9,6.91,0.6,97.2,72.3,34.5,Split Urea (Neem Coated)
+Potato,Red Lateritic,80.5,48.4,264.8,7.91,1.01,92.2,44.9,48.0,Split Urea (Neem Coated)
+Wheat,Sandy Loam,82.2,16.0,104.2,6.91,1.04,71.6,40.4,19.4,Split Urea (Neem Coated)
+Cotton,Alluvial Loam,78.5,54.1,232.1,5.77,1.02,96.9,10.0,10.7,Split Urea (Neem Coated)
+Maize,Sandy Loam,231.3,47.1,339.7,7.13,1.12,10.0,10.0,5.0,NPK 12:32:16 Complex
+Chickpea,Clay Loam,226.6,56.0,271.2,7.41,0.78,10.0,27.4,5.0,DAP + Zinc Sulphate
+Tomato,Sandy Loam,216.1,12.5,129.9,6.6,0.32,10.0,54.3,41.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,52.0,63.9,284.4,7.84,1.13,10.0,20.5,5.0,DAP + Zinc Sulphate
+Maize,Alluvial Loam,60.0,33.4,290.7,7.05,0.3,68.7,14.4,5.0,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,232.9,56.5,341.6,8.5,1.11,10.0,16.1,12.8,DAP + Zinc Sulphate
+Cotton,Red Lateritic,65.7,27.0,359.6,6.95,1.05,92.6,30.9,5.0,Split Urea (Neem Coated)
+Potato,Alluvial Loam,54.5,33.8,82.0,6.68,0.67,97.4,57.6,72.4,Split Urea (Neem Coated)
+Sugarcane,Red Lateritic,123.8,50.1,172.1,6.37,1.1,112.8,32.5,43.7,Split Urea (Neem Coated)
+Mustard,Clay Loam,208.0,32.4,250.8,6.07,0.72,10.0,15.3,5.0,DAP + Zinc Sulphate
+Maize,Red Lateritic,74.5,34.2,357.6,7.12,1.05,63.3,13.7,5.0,Split Urea (Neem Coated)
+Potato,Sandy Loam,202.2,20.6,328.9,6.62,0.65,35.2,69.0,39.5,DAP + Zinc Sulphate
+Sugarcane,Alluvial Loam,84.9,17.2,280.4,6.25,0.73,116.8,61.1,29.3,Split Urea (Neem Coated)
+Rice,Alluvial Loam,93.0,49.3,344.6,6.56,0.88,67.8,11.5,5.0,Split Urea (Neem Coated)
+Rice,Sandy Loam,199.2,54.2,185.3,8.49,0.39,27.9,10.0,8.6,NPK 12:32:16 Complex
+Soybean,Sandy Loam,185.7,44.0,146.8,6.17,0.89,10.0,37.8,5.4,DAP + Zinc Sulphate
+Potato,Sandy Loam,70.2,48.9,205.6,7.61,0.63,96.5,44.4,55.9,Split Urea (Neem Coated)
+Soybean,Red Lateritic,177.3,43.8,149.0,7.91,0.75,10.0,38.0,5.1,DAP + Zinc Sulphate
+Chickpea,Alluvial Loam,118.7,60.7,376.4,7.95,0.92,10.0,23.3,5.0,DAP + Zinc Sulphate
+Rice,Sandy Loam,77.0,49.9,232.7,6.46,0.93,74.3,11.0,5.0,Split Urea (Neem Coated)
+Sugarcane,Sandy Loam,50.7,55.2,352.6,5.58,1.14,143.1,28.1,19.7,Split Urea (Neem Coated)
+Tomato,Alluvial Loam,110.3,12.8,236.6,6.29,0.48,33.5,54.1,26.8,DAP + Zinc Sulphate
+Soybean,Black Regur,121.5,26.3,238.2,7.58,1.14,10.0,53.2,5.0,DAP + Zinc Sulphate
+Potato,Sandy Loam,163.1,60.4,369.8,6.25,0.74,64.0,34.4,34.0,Split Urea (Neem Coated)
+Chickpea,Red Lateritic,58.8,32.2,196.3,5.78,0.78,10.0,48.1,5.0,DAP + Zinc Sulphate
+Chickpea,Black Regur,44.1,31.2,229.9,5.89,0.88,10.0,49.0,5.0,DAP + Zinc Sulphate
+Maize,Sandy Loam,145.7,49.6,236.7,5.57,0.95,40.7,10.0,5.0,Split Urea (Neem Coated)
+Maize,Clay Loam,209.7,13.9,281.6,7.18,0.83,10.0,31.4,5.0,DAP + Zinc Sulphate
+Tomato,Red Lateritic,109.7,38.0,126.3,5.92,0.73,42.3,32.2,41.5,Split Urea (Neem Coated)

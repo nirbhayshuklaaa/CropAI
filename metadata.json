@@ -1,0 +1,6 @@
+{
+  "name": "CropAI",
+  "description": "AI-powered crop, soil, fertilizer and agricultural decision support platform for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

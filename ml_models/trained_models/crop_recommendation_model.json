@@ -1,0 +1,1759 @@
+{
+  "model_type": "MultiClassDecisionTree",
+  "target": "crop_label",
+  "feature_names": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "classes": [
+    "Chickpea",
+    "Cotton",
+    "Maize",
+    "Mustard",
+    "Pigeonpea",
+    "Potato",
+    "Rice",
+    "Soybean",
+    "Sugarcane",
+    "Tomato",
+    "Wheat"
+  ],
+  "train_accuracy": 0.9699,
+  "test_accuracy": 0.8455,
+  "total_samples": 2200,
+  "metrics_per_crop": {
+    "Chickpea": {
+      "precision": 0.9,
+      "recall": 0.973,
+      "f1_score": 0.9351,
+      "test_samples": 37
+    },
+    "Cotton": {
+      "precision": 0.75,
+      "recall": 0.8182,
+      "f1_score": 0.7826,
+      "test_samples": 55
+    },
+    "Maize": {
+      "precision": 0.7959,
+      "recall": 0.8864,
+      "f1_score": 0.8387,
+      "test_samples": 44
+    },
+    "Mustard": {
+      "precision": 0.9643,
+      "recall": 0.9,
+      "f1_score": 0.931,
+      "test_samples": 30
+    },
+    "Pigeonpea": {
+      "precision": 0.75,
+      "recall": 0.6857,
+      "f1_score": 0.7164,
+      "test_samples": 35
+    },
+    "Potato": {
+      "precision": 1.0,
+      "recall": 0.8684,
+      "f1_score": 0.9296,
+      "test_samples": 38
+    },
+    "Rice": {
+      "precision": 0.9767,
+      "recall": 1.0,
+      "f1_score": 0.9882,
+      "test_samples": 42
+    },
+    "Soybean": {
+      "precision": 0.7059,
+      "recall": 0.7059,
+      "f1_score": 0.7059,
+      "test_samples": 34
+    },
+    "Sugarcane": {
+      "precision": 1.0,
+      "recall": 0.9375,
+      "f1_score": 0.9677,
+      "test_samples": 32
+    },
+    "Tomato": {
+      "precision": 0.7447,
+      "recall": 0.814,
+      "f1_score": 0.7778,
+      "test_samples": 43
+    },
+    "Wheat": {
+      "precision": 0.8409,
+      "recall": 0.74,
+      "f1_score": 0.7872,
+      "test_samples": 50
+    }
+  },
+  "tree_structure": {
+    "type": "node",
+    "feature_index": 0,
+    "threshold": 63.4,
+    "left": {
+      "type": "node",
+      "feature_index": 2,
+      "threshold": 65.35,
+      "left": {
+        "type": "node",
+        "feature_index": 4,
+        "threshold": 59.255,
+        "left": {
+          "type": "node",
+          "feature_index": 1,
+          "threshold": 54.2,
+          "left": {
+            "type": "node",
+            "feature_index": 1,
+            "threshold": 49.75,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Mustard",
+              "probabilities": {
+                "Mustard": 1.0
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Pigeonpea",
+              "probabilities": {
+                "Soybean": 0.3333,
+                "Pigeonpea": 0.6667
+              }
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 2,
+            "threshold": 63.05,
+            "left": {
+              "type": "node",
+              "feature_index": 6,
+              "threshold": 133.07,
+              "left": {
+                "type": "node",
+                "feature_index": 1,
+                "threshold": 78.25,
+                "left": {
+                  "type": "leaf",
+                  "predicted_crop": "Pigeonpea",
+                  "probabilities": {
+                    "Pigeonpea": 1.0
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 1,
+                  "threshold": 79.1,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Soybean",
+                    "probabilities": {
+                      "Soybean": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Pigeonpea",
+                    "probabilities": {
+                      "Pigeonpea": 1.0
+                    }
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 4,
+                "threshold": 55.365,
+                "left": {
+                  "type": "leaf",
+                  "predicted_crop": "Pigeonpea",
+                  "probabilities": {
+                    "Pigeonpea": 1.0
+                  }
+                },
+                "right": {
+                  "type": "leaf",
+                  "predicted_crop": "Soybean",
+                  "probabilities": {
+                    "Soybean": 1.0
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "node",
+              "feature_index": 6,
+              "threshold": 95.95,
+              "left": {
+                "type": "leaf",
+                "predicted_crop": "Chickpea",
+                "probabilities": {
+                  "Chickpea": 1.0
+                }
+              },
+              "right": {
+                "type": "leaf",
+                "predicted_crop": "Pigeonpea",
+                "probabilities": {
+                  "Pigeonpea": 1.0
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "node",
+          "feature_index": 0,
+          "threshold": 56.6,
+          "left": {
+            "type": "node",
+            "feature_index": 4,
+            "threshold": 68.065,
+            "left": {
+              "type": "node",
+              "feature_index": 5,
+              "threshold": 5.975,
+              "left": {
+                "type": "leaf",
+                "predicted_crop": "Pigeonpea",
+                "probabilities": {
+                  "Pigeonpea": 1.0
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 3,
+                "threshold": 31.54,
+                "left": {
+                  "type": "node",
+                  "feature_index": 2,
+                  "threshold": 63.5,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 2,
+                    "threshold": 52.2,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 0,
+                      "threshold": 28.1,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 5,
+                        "threshold": 6.98,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 1,
+                          "threshold": 77.6,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 1.0
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Pigeonpea",
+                            "probabilities": {
+                              "Pigeonpea": 1.0
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Pigeonpea",
+                          "probabilities": {
+                            "Pigeonpea": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 45.8,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 6,
+                          "threshold": 81.17,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 0.5,
+                              "Pigeonpea": 0.5
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 1.0
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 6,
+                          "threshold": 117.745,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 0.875,
+                              "Pigeonpea": 0.125
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Pigeonpea",
+                            "probabilities": {
+                              "Pigeonpea": 1.0
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 1,
+                      "threshold": 77.75,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 2,
+                        "threshold": 53.15,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Pigeonpea",
+                          "probabilities": {
+                            "Pigeonpea": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 4,
+                          "threshold": 65.925,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Pigeonpea",
+                            "probabilities": {
+                              "Pigeonpea": 0.6071,
+                              "Soybean": 0.3929
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 0.7778,
+                              "Pigeonpea": 0.2222
+                            }
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Soybean",
+                        "probabilities": {
+                          "Soybean": 1.0
+                        }
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 50.75,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Chickpea",
+                      "probabilities": {
+                        "Chickpea": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Soybean",
+                      "probabilities": {
+                        "Soybean": 1.0
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 0,
+                  "threshold": 44.85,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Pigeonpea",
+                    "probabilities": {
+                      "Pigeonpea": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 45.8,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Soybean",
+                      "probabilities": {
+                        "Soybean": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 2,
+                      "threshold": 61.6,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Pigeonpea",
+                        "probabilities": {
+                          "Pigeonpea": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Soybean",
+                        "probabilities": {
+                          "Soybean": 1.0
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "node",
+              "feature_index": 5,
+              "threshold": 5.79,
+              "left": {
+                "type": "node",
+                "feature_index": 2,
+                "threshold": 44.45,
+                "left": {
+                  "type": "leaf",
+                  "predicted_crop": "Rice",
+                  "probabilities": {
+                    "Rice": 0.5,
+                    "Soybean": 0.5
+                  }
+                },
+                "right": {
+                  "type": "leaf",
+                  "predicted_crop": "Pigeonpea",
+                  "probabilities": {
+                    "Pigeonpea": 1.0
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 1,
+                "threshold": 49.4,
+                "left": {
+                  "type": "leaf",
+                  "predicted_crop": "Rice",
+                  "probabilities": {
+                    "Rice": 1.0
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 0,
+                  "threshold": 23.9,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Pigeonpea",
+                    "probabilities": {
+                      "Pigeonpea": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 4,
+                    "threshold": 70.925,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 6,
+                      "threshold": 81.92,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 1,
+                        "threshold": 59.75,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Soybean",
+                          "probabilities": {
+                            "Soybean": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 2,
+                          "threshold": 57.0,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Pigeonpea",
+                            "probabilities": {
+                              "Pigeonpea": 1.0
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 1.0
+                            }
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 5,
+                        "threshold": 7.165,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Soybean",
+                          "probabilities": {
+                            "Soybean": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 6,
+                          "threshold": 127.075,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Soybean",
+                            "probabilities": {
+                              "Soybean": 0.875,
+                              "Pigeonpea": 0.125
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Pigeonpea",
+                            "probabilities": {
+                              "Pigeonpea": 1.0
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Soybean",
+                      "probabilities": {
+                        "Soybean": 1.0
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 3,
+            "threshold": 20.635,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Mustard",
+              "probabilities": {
+                "Mustard": 1.0
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Rice",
+              "probabilities": {
+                "Rice": 1.0
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "type": "node",
+        "feature_index": 6,
+        "threshold": 93.525,
+        "left": {
+          "type": "node",
+          "feature_index": 3,
+          "threshold": 25.685,
+          "left": {
+            "type": "leaf",
+            "predicted_crop": "Chickpea",
+            "probabilities": {
+              "Chickpea": 1.0
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 1,
+            "threshold": 79.4,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Chickpea",
+              "probabilities": {
+                "Chickpea": 1.0
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Pigeonpea",
+              "probabilities": {
+                "Pigeonpea": 1.0
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "node",
+          "feature_index": 2,
+          "threshold": 67.85,
+          "left": {
+            "type": "node",
+            "feature_index": 1,
+            "threshold": 70.9,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Pigeonpea",
+              "probabilities": {
+                "Pigeonpea": 0.6667,
+                "Soybean": 0.3333
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Soybean",
+              "probabilities": {
+                "Soybean": 1.0
+              }
+            }
+          },
+          "right": {
+            "type": "leaf",
+            "predicted_crop": "Chickpea",
+            "probabilities": {
+              "Chickpea": 1.0
+            }
+          }
+        }
+      }
+    },
+    "right": {
+      "type": "node",
+      "feature_index": 6,
+      "threshold": 137.655,
+      "left": {
+        "type": "node",
+        "feature_index": 2,
+        "threshold": 81.9,
+        "left": {
+          "type": "node",
+          "feature_index": 2,
+          "threshold": 43.25,
+          "left": {
+            "type": "node",
+            "feature_index": 6,
+            "threshold": 63.775,
+            "left": {
+              "type": "node",
+              "feature_index": 0,
+              "threshold": 98.2,
+              "left": {
+                "type": "node",
+                "feature_index": 1,
+                "threshold": 49.15,
+                "left": {
+                  "type": "node",
+                  "feature_index": 3,
+                  "threshold": 26.845,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 5,
+                    "threshold": 5.925,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 0.5,
+                        "Maize": 0.5
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Maize",
+                    "probabilities": {
+                      "Maize": 1.0
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 2,
+                  "threshold": 38.7,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 2,
+                    "threshold": 21.05,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Maize",
+                      "probabilities": {
+                        "Maize": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Maize",
+                    "probabilities": {
+                      "Maize": 0.6667,
+                      "Wheat": 0.3333
+                    }
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 0,
+                "threshold": 108.6,
+                "left": {
+                  "type": "leaf",
+                  "predicted_crop": "Maize",
+                  "probabilities": {
+                    "Maize": 1.0
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 0,
+                  "threshold": 129.6,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Wheat",
+                    "probabilities": {
+                      "Wheat": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Cotton",
+                    "probabilities": {
+                      "Cotton": 1.0
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "node",
+              "feature_index": 3,
+              "threshold": 18.855,
+              "left": {
+                "type": "node",
+                "feature_index": 1,
+                "threshold": 49.05,
+                "left": {
+                  "type": "node",
+                  "feature_index": 4,
+                  "threshold": 65.42,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 97.8,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 2,
+                      "threshold": 21.7,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 83.9,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Maize",
+                          "probabilities": {
+                            "Maize": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Mustard",
+                          "probabilities": {
+                            "Mustard": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Mustard",
+                        "probabilities": {
+                          "Mustard": 1.0
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 0.5,
+                        "Wheat": 0.5
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 119.75,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Maize",
+                      "probabilities": {
+                        "Maize": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Wheat",
+                      "probabilities": {
+                        "Wheat": 1.0
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 0,
+                  "threshold": 89.85,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 1,
+                    "threshold": 51.45,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 0,
+                      "threshold": 87.8,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Mustard",
+                        "probabilities": {
+                          "Mustard": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Wheat",
+                        "probabilities": {
+                          "Wheat": 1.0
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 1,
+                      "threshold": 58.7,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Maize",
+                        "probabilities": {
+                          "Maize": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Wheat",
+                        "probabilities": {
+                          "Wheat": 1.0
+                        }
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 2,
+                    "threshold": 33.3,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Wheat",
+                      "probabilities": {
+                        "Wheat": 1.0
+                      }
+                    }
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 0,
+                "threshold": 121.05,
+                "left": {
+                  "type": "node",
+                  "feature_index": 1,
+                  "threshold": 39.05,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 2,
+                    "threshold": 28.9,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 4,
+                      "threshold": 60.84,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Mustard",
+                        "probabilities": {
+                          "Mustard": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Maize",
+                        "probabilities": {
+                          "Maize": 1.0
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Mustard",
+                      "probabilities": {
+                        "Mustard": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 4,
+                    "threshold": 54.875,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 1,
+                      "threshold": 48.0,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 3,
+                        "threshold": 26.325,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Mustard",
+                          "probabilities": {
+                            "Mustard": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Maize",
+                          "probabilities": {
+                            "Maize": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 2,
+                        "threshold": 31.2,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Maize",
+                          "probabilities": {
+                            "Maize": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 2,
+                      "threshold": 36.8,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 1,
+                        "threshold": 63.0,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 5,
+                          "threshold": 7.295,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Maize",
+                            "probabilities": {
+                              "Maize": 0.9891,
+                              "Mustard": 0.0109
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Maize",
+                            "probabilities": {
+                              "Maize": 0.5,
+                              "Wheat": 0.5
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 97.55,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Maize",
+                          "probabilities": {
+                            "Maize": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 3,
+                          "threshold": 28.07,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Maize",
+                            "probabilities": {
+                              "Wheat": 0.4231,
+                              "Maize": 0.5385,
+                              "Cotton": 0.0385
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Cotton",
+                            "probabilities": {
+                              "Cotton": 1.0
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 3,
+                  "threshold": 21.265,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Wheat",
+                    "probabilities": {
+                      "Wheat": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 127.0,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Wheat",
+                      "probabilities": {
+                        "Cotton": 0.3333,
+                        "Wheat": 0.6667
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 2,
+                      "threshold": 40.75,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 134.95,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Cotton",
+                          "probabilities": {
+                            "Cotton": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Cotton",
+                        "probabilities": {
+                          "Cotton": 1.0
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 2,
+            "threshold": 53.25,
+            "left": {
+              "type": "node",
+              "feature_index": 3,
+              "threshold": 24.85,
+              "left": {
+                "type": "node",
+                "feature_index": 3,
+                "threshold": 22.27,
+                "left": {
+                  "type": "node",
+                  "feature_index": 1,
+                  "threshold": 42.15,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Cotton",
+                    "probabilities": {
+                      "Cotton": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 77.5,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Maize",
+                      "probabilities": {
+                        "Maize": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 6,
+                      "threshold": 50.5,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 1,
+                        "threshold": 55.7,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Tomato",
+                          "probabilities": {
+                            "Tomato": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 2,
+                        "threshold": 44.7,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 4,
+                          "threshold": 63.255,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Wheat",
+                            "probabilities": {
+                              "Wheat": 1.0
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Maize",
+                            "probabilities": {
+                              "Maize": 1.0
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 3,
+                  "threshold": 22.795,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Cotton",
+                    "probabilities": {
+                      "Cotton": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 141.55,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 1,
+                      "threshold": 44.8,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Cotton",
+                        "probabilities": {
+                          "Cotton": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 5,
+                        "threshold": 5.835,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Tomato",
+                          "probabilities": {
+                            "Tomato": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "node",
+                          "feature_index": 0,
+                          "threshold": 108.7,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Wheat",
+                            "probabilities": {
+                              "Wheat": 0.5,
+                              "Maize": 0.5
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Wheat",
+                            "probabilities": {
+                              "Wheat": 1.0
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Cotton",
+                      "probabilities": {
+                        "Cotton": 1.0
+                      }
+                    }
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 0,
+                "threshold": 99.8,
+                "left": {
+                  "type": "node",
+                  "feature_index": 1,
+                  "threshold": 58.4,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Maize",
+                    "probabilities": {
+                      "Maize": 0.6667,
+                      "Cotton": 0.3333
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Tomato",
+                    "probabilities": {
+                      "Tomato": 1.0
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 3,
+                  "threshold": 28.865,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 4,
+                    "threshold": 64.995,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 5,
+                      "threshold": 6.66,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Cotton",
+                        "probabilities": {
+                          "Cotton": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 115.1,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 2,
+                          "threshold": 49.75,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Maize",
+                            "probabilities": {
+                              "Maize": 1.0
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Tomato",
+                            "probabilities": {
+                              "Tomato": 1.0
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Wheat",
+                          "probabilities": {
+                            "Wheat": 1.0
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Cotton",
+                      "probabilities": {
+                        "Cotton": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Cotton",
+                    "probabilities": {
+                      "Cotton": 1.0
+                    }
+                  }
+                }
+              }
+            },
+            "right": {
+              "type": "node",
+              "feature_index": 0,
+              "threshold": 128.45,
+              "left": {
+                "type": "node",
+                "feature_index": 6,
+                "threshold": 120.67,
+                "left": {
+                  "type": "node",
+                  "feature_index": 5,
+                  "threshold": 7.375,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 1,
+                    "threshold": 49.25,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 2,
+                      "threshold": 57.35,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Wheat",
+                        "probabilities": {
+                          "Wheat": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 1,
+                        "threshold": 48.15,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Cotton",
+                          "probabilities": {
+                            "Cotton": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Tomato",
+                          "probabilities": {
+                            "Tomato": 1.0
+                          }
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "node",
+                      "feature_index": 5,
+                      "threshold": 5.92,
+                      "left": {
+                        "type": "node",
+                        "feature_index": 0,
+                        "threshold": 115.1,
+                        "left": {
+                          "type": "leaf",
+                          "predicted_crop": "Tomato",
+                          "probabilities": {
+                            "Tomato": 1.0
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Potato",
+                          "probabilities": {
+                            "Potato": 1.0
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "node",
+                        "feature_index": 3,
+                        "threshold": 33.01,
+                        "left": {
+                          "type": "node",
+                          "feature_index": 4,
+                          "threshold": 50.955,
+                          "left": {
+                            "type": "leaf",
+                            "predicted_crop": "Wheat",
+                            "probabilities": {
+                              "Wheat": 1.0
+                            }
+                          },
+                          "right": {
+                            "type": "leaf",
+                            "predicted_crop": "Tomato",
+                            "probabilities": {
+                              "Tomato": 0.9276,
+                              "Wheat": 0.0132,
+                              "Cotton": 0.0526,
+                              "Potato": 0.0066
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "leaf",
+                          "predicted_crop": "Cotton",
+                          "probabilities": {
+                            "Cotton": 1.0
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 99.15,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Tomato",
+                      "probabilities": {
+                        "Tomato": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Cotton",
+                      "probabilities": {
+                        "Cotton": 1.0
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 2,
+                  "threshold": 71.5,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 3,
+                    "threshold": 20.84,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Tomato",
+                      "probabilities": {
+                        "Tomato": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Cotton",
+                      "probabilities": {
+                        "Cotton": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Sugarcane",
+                    "probabilities": {
+                      "Sugarcane": 1.0
+                    }
+                  }
+                }
+              },
+              "right": {
+                "type": "node",
+                "feature_index": 2,
+                "threshold": 66.05,
+                "left": {
+                  "type": "node",
+                  "feature_index": 3,
+                  "threshold": 20.53,
+                  "left": {
+                    "type": "leaf",
+                    "predicted_crop": "Wheat",
+                    "probabilities": {
+                      "Wheat": 1.0
+                    }
+                  },
+                  "right": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 156.15,
+                    "left": {
+                      "type": "leaf",
+                      "predicted_crop": "Cotton",
+                      "probabilities": {
+                        "Cotton": 1.0
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Sugarcane",
+                      "probabilities": {
+                        "Sugarcane": 1.0
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "type": "node",
+                  "feature_index": 6,
+                  "threshold": 108.63,
+                  "left": {
+                    "type": "node",
+                    "feature_index": 0,
+                    "threshold": 138.0,
+                    "left": {
+                      "type": "node",
+                      "feature_index": 0,
+                      "threshold": 129.75,
+                      "left": {
+                        "type": "leaf",
+                        "predicted_crop": "Tomato",
+                        "probabilities": {
+                          "Tomato": 1.0
+                        }
+                      },
+                      "right": {
+                        "type": "leaf",
+                        "predicted_crop": "Cotton",
+                        "probabilities": {
+                          "Cotton": 1.0
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "leaf",
+                      "predicted_crop": "Potato",
+                      "probabilities": {
+                        "Potato": 1.0
+                      }
+                    }
+                  },
+                  "right": {
+                    "type": "leaf",
+                    "predicted_crop": "Sugarcane",
+                    "probabilities": {
+                      "Sugarcane": 1.0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "type": "node",
+          "feature_index": 3,
+          "threshold": 24.485,
+          "left": {
+            "type": "node",
+            "feature_index": 0,
+            "threshold": 99.35,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Tomato",
+              "probabilities": {
+                "Tomato": 1.0
+              }
+            },
+            "right": {
+              "type": "node",
+              "feature_index": 0,
+              "threshold": 99.65,
+              "left": {
+                "type": "leaf",
+                "predicted_crop": "Tomato",
+                "probabilities": {
+                  "Tomato": 1.0
+                }
+              },
+              "right": {
+                "type": "leaf",
+                "predicted_crop": "Potato",
+                "probabilities": {
+                  "Potato": 1.0
+                }
+              }
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 4,
+            "threshold": 70.545,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Potato",
+              "probabilities": {
+                "Potato": 0.5,
+                "Tomato": 0.5
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Sugarcane",
+              "probabilities": {
+                "Sugarcane": 1.0
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "type": "node",
+        "feature_index": 0,
+        "threshold": 111.2,
+        "left": {
+          "type": "node",
+          "feature_index": 4,
+          "threshold": 72.42,
+          "left": {
+            "type": "leaf",
+            "predicted_crop": "Cotton",
+            "probabilities": {
+              "Cotton": 1.0
+            }
+          },
+          "right": {
+            "type": "leaf",
+            "predicted_crop": "Rice",
+            "probabilities": {
+              "Rice": 1.0
+            }
+          }
+        },
+        "right": {
+          "type": "node",
+          "feature_index": 2,
+          "threshold": 57.55,
+          "left": {
+            "type": "node",
+            "feature_index": 4,
+            "threshold": 83.345,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Cotton",
+              "probabilities": {
+                "Cotton": 1.0
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Sugarcane",
+              "probabilities": {
+                "Sugarcane": 0.5,
+                "Rice": 0.5
+              }
+            }
+          },
+          "right": {
+            "type": "node",
+            "feature_index": 4,
+            "threshold": 66.52,
+            "left": {
+              "type": "leaf",
+              "predicted_crop": "Cotton",
+              "probabilities": {
+                "Cotton": 1.0
+              }
+            },
+            "right": {
+              "type": "leaf",
+              "predicted_crop": "Sugarcane",
+              "probabilities": {
+                "Sugarcane": 1.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

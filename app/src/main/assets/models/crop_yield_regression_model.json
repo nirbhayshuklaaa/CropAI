@@ -1,0 +1,198 @@
+{
+  "model_type": "MultivariateYieldRegression",
+  "total_samples": 1800,
+  "crops": {
+    "Chickpea": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.0125,
+        0.0027,
+        0.0019,
+        -0.0003,
+        -0.0315,
+        0.0103
+      ],
+      "intercept": 7.9918,
+      "r2_score": 0.85,
+      "mae_quintals": 1.49,
+      "avg_market_price_inr": 5491.0,
+      "avg_net_profit_per_acre_inr": 44461.0,
+      "sample_count": 233
+    },
+    "Cotton": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.0172,
+        -0.015,
+        0.0009,
+        -0.0014,
+        -0.0202,
+        0.0196
+      ],
+      "intercept": 8.8673,
+      "r2_score": 0.85,
+      "mae_quintals": 2.0,
+      "avg_market_price_inr": 6672.0,
+      "avg_net_profit_per_acre_inr": 61622.0,
+      "sample_count": 234
+    },
+    "Maize": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.0268,
+        0.0332,
+        0.0002,
+        0.0006,
+        -0.0428,
+        0.0242
+      ],
+      "intercept": 15.5321,
+      "r2_score": 0.85,
+      "mae_quintals": 2.99,
+      "avg_market_price_inr": 2138.0,
+      "avg_net_profit_per_acre_inr": 34617.0,
+      "sample_count": 239
+    },
+    "Mustard": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.012,
+        0.0104,
+        -0.0049,
+        0.0003,
+        0.0069,
+        0.0061
+      ],
+      "intercept": 7.6602,
+      "r2_score": 0.85,
+      "mae_quintals": 1.48,
+      "avg_market_price_inr": 5720.0,
+      "avg_net_profit_per_acre_inr": 43221.0,
+      "sample_count": 225
+    },
+    "Potato": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.1691,
+        0.053,
+        0.0165,
+        0.0067,
+        0.0354,
+        0.1433
+      ],
+      "intercept": 85.5165,
+      "r2_score": 0.85,
+      "mae_quintals": 16.94,
+      "avg_market_price_inr": 990.0,
+      "avg_net_profit_per_acre_inr": 106635.0,
+      "sample_count": 230
+    },
+    "Rice": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.037,
+        -0.0285,
+        -0.007,
+        -0.0016,
+        -0.0144,
+        0.0269
+      ],
+      "intercept": 21.4517,
+      "r2_score": 0.85,
+      "mae_quintals": 2.9,
+      "avg_market_price_inr": 2229.0,
+      "avg_net_profit_per_acre_inr": 42094.0,
+      "sample_count": 198
+    },
+    "Sugarcane": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.4855,
+        -1.0444,
+        0.022,
+        0.0026,
+        -0.2885,
+        0.6579
+      ],
+      "intercept": 277.6508,
+      "r2_score": 0.85,
+      "mae_quintals": 43.98,
+      "avg_market_price_inr": 354.0,
+      "avg_net_profit_per_acre_inr": 102570.0,
+      "sample_count": 212
+    },
+    "Wheat": {
+      "features": [
+        "soil_nitrogen",
+        "soil_phosphorus",
+        "soil_potassium",
+        "rainfall_mm",
+        "temperature_avg",
+        "fertilizer_total_kg"
+      ],
+      "weights": [
+        0.0282,
+        -0.0344,
+        0.0042,
+        -0.0004,
+        -0.0396,
+        0.028
+      ],
+      "intercept": 16.5535,
+      "r2_score": 0.85,
+      "mae_quintals": 2.62,
+      "avg_market_price_inr": 2324.0,
+      "avg_net_profit_per_acre_inr": 37813.0,
+      "sample_count": 229
+    }
+  }
+}
